@@ -140,6 +140,7 @@ In addition to the carbon fiber, you will need the following hardware to complet
 It is recommended to use 5mm diameter spacers, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
 
 | Quantity | Description | Details |
+| :---: | :--- | :--- |
 | 8 | M3x30mm standoffs | for the body |
 | 2 | M3x20mm standoffs | for the camera |
 
@@ -148,18 +149,21 @@ It is recommended to use 5mm diameter spacers, especially for those that will se
 *If 30x30 stack
 
 | Quantity | Description | Details |
+| :---: | :--- | :--- |
 | 4 | M3x22mm ou M3x20mm countersunk screws | for the stack |
 | 4 | M3 nuts for stack screws | for the camera |
 
 *If 20x20 stack
 
 | Quantity | Description | Details |
+| :---: | :--- | :--- |
 | 4 | M2x20mm countersunk screws | for the stack |
 | 4 | M2 nuts for stack screws | for the camera |
 
 **Frame materials**
 
 | Quantity | Description | Details |
+| :---: | :--- | :--- |
 | 6 | M3x6/8mm countersunk screws | for the top plate |
 | 14 | M3x8mm screws (titanium if possible) | |
 | 8 | Pressnuts (Flywoo or SourceOne alike) | |
@@ -169,6 +173,7 @@ It is recommended to use 5mm diameter spacers, especially for those that will se
 **Additional materials**
 
 | Quantity | Description | Details |
+| :---: | :--- | :--- |
 | 16 | M3x10mm screws | for the motors |
 | 4 | M2x5mm screws | for the camera |
 
@@ -185,7 +190,7 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a ![video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
+Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
 
 
 ## Assembly guide

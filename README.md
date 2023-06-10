@@ -8,22 +8,23 @@ A 5.1" FPV frame compatible with Air Unit O3 and designed for Freestyle, Freerid
 ![](./images/JeNo_3d_classic.jpg)
 
 ## Key features
-* **Sturdiness** and **rigidity** (6 mm arms)
-* Excellent flight **performances**, easy to tune
-* **Wide-X** geometry
-* Perfect DJI **Air Unit O3** camera integration
-* Designed for : DJI Vista/AU O3, WalkSnail, HDZero, Analogic
-* **Frame and standoffs NOT visible** in video feed, with any FPV camera
-* Stack **decoupled** from the arms
-* **Easy maintenance** : remove 2 screws to replace an arm
-* **Roomy** (30 mm high)
-* **Customizable** (weight, arms, camera plates)
+[x] **Sturdiness** and **rigidity** (6 mm arms)
+[x] Excellent flight **performances**, easy to tune
+[x] **Wide-X** geometry
+[x] Perfect DJI **Air Unit O3** camera integration
+[x] Designed for : DJI Vista/AU O3, WalkSnail, HDZero, Analogic
+[x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
+[x] Stack **decoupled** from the arms
+[x] **Easy maintenance** : remove 2 screws to replace an arm
+[x] **Roomy** (30 mm high)
+[x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
 
 
 ## Detaileds specifications
 
+|:---|:---|
 |**Géométry**|Wide-X|
 |**Tailles d'hélices**|5.1" (ou 6" avec les bras en option)|
 |**Poids**|120 à 145 g selon les options, avec la visserie|

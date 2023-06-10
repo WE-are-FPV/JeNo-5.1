@@ -104,6 +104,30 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 
 `Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).`
 
+| Freestyle camera plates | Cinematic camera plates |
+| --- | --- |
+| ![Freestyle camera plates](./images/camplates_freestyle.jpg) | ![Cinematic camera plates](./images/camplates_cine.jpg) |
+
+### The Arms
+Several shapes are available for the arm "heads". Weight, robustness, motor protection, and aesthetics will be the main considerations.
+
+* **"Classic" :** A solid design suitable for Freestyle flying.
+* **"Light" :** Some solidity is sacrificed in favor of reduced weight.
+* **"Modus" :** The most robust shape that offers the best motor protection. It is also the heaviest arm model.
+* **"Rabbit" :** Provides good motor protection with a reasonable weight.
+
+![JeNo Arms](./images/JeNo_arms.jpg)
+
+### The Extras
+In the "dxf/04_extras" folder, you will find additional options that cater to more specific needs while remaining compatible with the JeNo frame:
+
+* 6" Arms
+* Ultra-light Camera Plates
+* High Tilt Camera Plates (40°)
+* ...
+
+Feel free to modify the files according to your requirements as well. For example, if you want even more solidity, you can indicate that you would like thicker bottom and top plates (remember to adjust the screw length accordingly).
+
 ## Buy it or cut it !
 
 

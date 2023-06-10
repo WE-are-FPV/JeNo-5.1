@@ -70,6 +70,19 @@ The JeNo is also available in 3" and 3.5" versions, which can be found on [this 
 
 ## Customization
 
+The JeNo is customizable, offering several **options** to best adapt to different needs and individual preferences.
+
+To have a complete frame, you will need to choose:
+
+* A **base** (bottom, middle, top plate, and arm spacer)
+* A type of **camera plates**
+* A model of **arms**
+
+**All components are compatible with each other.**
+
+Here is the "menu card" and its various options:
+
+![JeNo customizable options](./images/JeNo_a_la_carte.jpg)
 
 ## Buy it or cut it !
 

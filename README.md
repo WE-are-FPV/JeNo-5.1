@@ -190,7 +190,7 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
+Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado){:target="_blank" rel="noopener"}, and you will find the assembly documentation below, also available here in PDF format.
 
 
 ## Assembly guide

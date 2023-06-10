@@ -181,7 +181,7 @@ It is recommended to use 5mm diameter spacers, especially for those that will se
 
 The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
 
-## Building
+## Building/Assembly guide
 
 The assembly of the frame is straightforward, but here are some clarifications:
 
@@ -190,14 +190,23 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado){:target="_blank" rel="noopener"}, and you will find the assembly documentation below, also available here in PDF format.
+Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
 
-
-## Assembly guide
-
+![JeNo assembly - step 1](./images/step_01.jpg)
+![JeNo assembly - step 2](./images/step_02.jpg)
+![JeNo assembly - step 3](./images/step_03.jpg)
+![JeNo assembly - step 4](./images/step_04.jpg)
+![JeNo assembly - step 5](./images/step_05.jpg)
+![JeNo assembly - step 6](./images/step_06.jpg)
 
 ## Inspiration
 
+The JeNo takes partial inspiration from two other frames:
+
+* The arm locking system of the **Apex**, with **embedded press nuts** at the end of the arms.
+* The camera plates are slightly inspired by the **aluminum** cage of the **iFlight Evoque F5X HD V2**. The design is completely different as we use only carbon fiber, but the appearance is reminiscent.
+
+The rest of the design was guided by the constraints imposed by the Air Unit O3 and its camera, as well as our past experiences with other custom frame designs.
 
 ## Presets
 

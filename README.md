@@ -24,7 +24,7 @@ A 5.1" FPV frame compatible with Air Unit O3 and designed for Freestyle, Freerid
 
 ## Detaileds specifications
 
-| Col1 | Col2 | 
+||| 
 | :--- | :--- |
  | **Géométry** | Wide-X | 
  | **Tailles d'hélices** | 5.1" (ou 6" avec les bras en option) | 

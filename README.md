@@ -87,20 +87,22 @@ Here is the "menu card" and its various options:
 ### The Base
 This concerns the core of the frame (bottom, middle, top plates, and arm spacer).
 
-Priority: The Classic version (solid) features a 2.5mm bottom plate, compared to 2mm for the Lightweight version, which is also more "open." For the Lightweight version, the weight is approximately 120g depending on the options, compared to approximately 140g for the Reinforced version.
-Chamfers: The chamfered version is more aesthetically pleasing and slightly stronger. The arms have chamfers on both sides. The top plate is chamfered only on the upper part. Chamfering generally increases the price by around 15%.
-Edition: The WE are FPV option adds a "WaF" logo, engraved on the bottom plate.
-The Camera Plates
+* **Priority :** The Classic version (sturdy) features a 2.5mm bottom plate, compared to 2mm for the Lightweight version, which is also more "patterned." For the Lightweight version, the weight is approximately 120g depending on the options, compared to approximately 140g for the reinforced (classic) version.
+* **Chamfers :** The chamfered version is more aesthetically pleasing and slightly stronger. The arms have chamfers on both sides. The top plate is chamfered only on the upper part. Chamfering generally increases the price by around 15%.
+* **Edition :** The WE are FPV option adds a "WaF" logo, engraved on the bottom plate.
 
-Priority: In the Lightweight version, the carbon is more "open," making it slightly more fragile.
+### The Camera Plates
 
-Classic: For Freestyle flying, behavior and robustness are prioritized, but the propellers will be visible in the FOV.
+* **Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile.*
 
-Lightweight: 1g lighter than the Classic plates (0.5g per plate).
+* **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
+* **Lightweight : ** 1g lighter than the Classic plates (0.5g per plate).
+* **Ciné : ** Uses elongated camera plates to eliminate propellers from the FOV (set to Wide with the O3).
+* **Ciné Soft : ** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
 
-Ciné: Uses elongated camera plates to eliminate propellers from the FOV (set to Wide with the O3).
+![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
 
-Ciné Soft: The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
+`Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).`
 
 ## Buy it or cut it !
 

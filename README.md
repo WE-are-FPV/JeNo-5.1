@@ -93,7 +93,7 @@ This concerns the core of the frame (bottom, middle, top plates, and arm spacer)
 
 ### The Camera Plates
 
-_ **Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile._
+**Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile.
 
 * **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
 * **Lightweight : ** 1g lighter than the Classic plates (0.5g per plate).

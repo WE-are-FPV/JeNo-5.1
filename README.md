@@ -24,7 +24,7 @@ The **JeNo** is a 5.1" frame designed for the **DJI Air Unit O3**, which is not 
 
 Originally intended for freestyle flying, **flight quality** and **durability** were at the core of its design (see BlackBox at the bottom of the page).
 
-The issue of obstructed FOV due to stand-offs or the frame itself is exacerbated with the O3 camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3**.
+The issue of obstructed FOV due to standoffs or the frame itself is exacerbated with the O3 camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3**.
 
 It is optimized for a 25° FOV but can support FOVs ranging from 0° to ~40°.
 
@@ -54,7 +54,7 @@ The JeNo is also available in 3" and 3.5" versions, which can be found on [this 
 | **Props size** | 5.1" (or 6" with optional arms) | 
 | **Weight** | 120 à 145 g depending on options, with screws | 
 | **Arms** | 6 mm | 
-| **Bus height** | 30 mm | 
+| **Body height** | 30 mm | 
 | **Stack height** | 21.5 mm | 
 | **Bottom plate** | 2 or 2.5 mm depending on options | 
 | **Middle plate** | 2.5 mm | 
@@ -130,8 +130,62 @@ Feel free to modify the files according to your requirements as well. For exampl
 
 ## Buy it or cut it !
 
+It is up to you : you can get it cut in your favourite flavour and source the materials yourself, or you can get a classic or cine version directly from Drone FPV Racer.
 
 ## Bill of materials
+
+In addition to the carbon fiber, you will need the following hardware to complete the assembly of the frame.
+
+**Standoffs**
+It is recommended to use 5mm diameter spacers, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
+
+| Quantity | Description | Details |
+| 8 | M3x30mm standoffs | for the body |
+| 2 | M3x20mm standoffs | for the camera |
+
+**Stack materials**
+
+*If 30x30 stack
+
+| Quantity | Description | Details |
+| 4 | M3x22mm ou M3x20mm countersunk screws | for the stack |
+| 4 | M3 nuts for stack screws | for the camera |
+
+*If 20x20 stack
+
+| Quantity | Description | Details |
+| 4 | M2x20mm countersunk screws | for the stack |
+| 4 | M2 nuts for stack screws | for the camera |
+
+**Frame materials**
+
+| Quantity | Description | Details |
+| 6 | M3x6/8mm countersunk screws | for the top plate |
+| 14 | M3x8mm screws (titanium if possible) | |
+| 8 | Pressnuts (Flywoo or SourceOne alike) | |
+| 4 | M3x14mm screws (steel if possible) | for the arms |
+| 4 | M3x8mm screws (steel if possible) | for the arms |
+
+**Additional materials**
+
+| Quantity | Description | Details |
+| 16 | M3x10mm screws | for the motors |
+| 4 | M2x5mm screws | for the camera |
+
+**Fasten the lipo**
+
+The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
+
+## Building
+
+The assembly of the frame is straightforward, but here are some clarifications:
+
+* On one of the two sides of the middle plate, there are chamfered holes to accommodate countersunk screws. This side corresponds to the bottom. Remember to install the stack screws before installing the middle plate.
+* The press nuts will be positioned on the bottom side of the bottom plate.
+* An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
+* Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
+
+Here is a ![video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
 
 
 ## Assembly guide

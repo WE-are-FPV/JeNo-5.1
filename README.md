@@ -93,12 +93,12 @@ This concerns the core of the frame (bottom, middle, top plates, and arm spacer)
 
 ### The Camera Plates
 
-**Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile.
+_**Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile._
 
 * **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
-* **Lightweight : ** 1g lighter than the Classic plates (0.5g per plate).
-* **Ciné : ** Uses elongated camera plates to eliminate propellers from the FOV (set to Wide with the O3).
-* **Ciné Soft : ** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
+* **Lightweight :** 1g lighter than the Classic plates (0.5g per plate).
+* **Ciné :** Uses elongated camera plates to eliminate propellers from the FOV (set to Wide with the O3).
+* **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
 

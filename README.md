@@ -26,23 +26,23 @@ A 5.1" FPV frame compatible with Air Unit O3 and designed for Freestyle, Freerid
 
 ||| 
 | :--- | :--- |
-| **Géométry** | Wide-X | 
-| **Tailles d'hélices** | 5.1" (ou 6" avec les bras en option) | 
-| **Poids** | 120 à 145 g selon les options, avec la visserie | 
-| **Bras** | 6 mm | 
-| **Hauteur du bus** | 30 mm | 
-| **Hauteur de la stack** | 21.5 mm | 
-| **Bottom plate** | 2 ou 2.5 mm selon options | 
+| **Géometry** | Wide-X | 
+| **Props size** | 5.1" (or 6" with optional arms) | 
+| **Weight** | 120 à 145 g depending on options, with screws | 
+| **Arms** | 6 mm | 
+| **Bus height** | 30 mm | 
+| **Stack height** | 21.5 mm | 
+| **Bottom plate** | 2 or 2.5 mm depending on options | 
 | **Middle plate** | 2.5 mm | 
 | **Top plate** | 2 mm | 
 | **Camera plates** | 3 mm | 
-| **Entraxe moteurs** | 16 mm | 
-| **Camera** | 20 mm (DJI), Micro, Nano. FOV dégagé. Ajustable.
-| **Stack centrale** | 30.5 mm x 30.5 mm et 20 mm x 20 mm | 
-| **Stack arrière** | 20 mm x 20 mm et 25 .5 x 25.5 mm | 
-| **VTX Supportés** | Analogique, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
-| **Passage de sangle** | Oui | 
-| **Passage XT60** | Oui (avant et arrière) + passage de rislan pour sécurisation | 
+| **Motors mounting** | 16 mm | 
+| **Camera** | 20 mm (DJI), Micro, Nano. Clear FOV. Ajustable.
+| **Main stack** | 30.5 mm x 30.5 mm et 20 mm x 20 mm | 
+| **Back stack** | 20 mm x 20 mm et 25 .5 x 25.5 mm | 
+| **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
+| **Strap passage** | Yes | 
+| **XT60 passage** | Yes (front and back) + passage for a zip tie | 
 
 ## Customization
 

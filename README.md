@@ -282,5 +282,5 @@ In addition to the TPU options available on this page, you will find here some T
 * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
 * Reinforcements at the back of the bottom plate.
 * Addition of a chamfer on the bottom plate (single face).
-* Extra-light camera plate on the "light" full and base versions.
+* Extra-light camera plate on the "light"  version (full and base DXF).
 

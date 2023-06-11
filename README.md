@@ -46,9 +46,9 @@ Several pattern options for the arm are also available.
 
 Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 5.1" thread](https://forum.wearefpv.fr/topic/19574-jeno-51-un-ch%C3%A2ssis-custom-modulaire-avec-fov-d%C3%A9gag%C3%A9-o3) to discuss it further.
 
-The JeNo is also available in 3" and 3.5" versions, which can be found on [this Printables page](https://www.printables.com/fr/model/459702-jeno-335-drone-frame).
-
 ![WE are FPV banner](./images/waf-jeno.jpg)
+
+The JeNo is also available in 3" and 3.5" versions, which can be found on [this Printables page](https://www.printables.com/fr/model/459702-jeno-335-drone-frame).
 
 ## Detaileds specifications
 
@@ -132,6 +132,8 @@ In the "dxf/04_extras" folder, you will find additional options that cater to mo
 * ...
 
 Feel free to modify the files according to your requirements as well. For example, if you want even more solidity, you can indicate that you would like thicker bottom and top plates (remember to adjust the screw length accordingly).
+
+![WE are FPV banner](./images/JeNo_CameraPlates_Light.jpg)
 
 ## Buy it or cut it !
 

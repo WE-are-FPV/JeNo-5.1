@@ -210,25 +210,73 @@ The rest of the design was guided by the constraints imposed by the Air Unit O3 
 
 ## Presets
 
+To quickly and fully enjoy the JeNo, a **preset** for **Betaflight 4.4** is available. You just need to add the **WE are FPV repository** to the **preset sources** in Betaflight Configurator.
+
+In the "Preset" tab, click on "Preset sources..." to add the WE are FPV source:
+
+**Url :** https://github.com/WE-are-FPV/firmware-presets
+**GitHub branch :** waf-presets
+
+![JeNo Preset Source](./images/presets_sources.png)
+
+Once the source is validated, you simply need to make it "active" to access the JeNo presets under the **"Tune" category** in **version "4.4"**. The preset is available in both **French (FR)** and **English**, and it is indeed the **same tune**.
+
+![JeNo Preset Options](./images/presets_options.png)
+
+The preset contains **several options** to select. Note that **by default**, the **tune** is already **quite aggressive**, even without activating the "advanced" tuning options for PIDs and filtering.
 
 ## Blackbox
 
+Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal :
+
+![JeNo Blackbox](./images/presets_options.png)
 
 ## Videos
 Freestyle with JeNo :
 
-[![JeNo 5.1 Maiden](https://img.youtube.com/vi/Fe3_sJf0j6o/0.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
+![JeNo 5.1 Maiden](https://img.youtube.com/vi/Fe3_sJf0j6o/0.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
 
 JeNo review on WE are FPV (French) :
 
-[![JeNo review on WE are FPV (French)](https://img.youtube.com/vi/RtPTJsno8Kg/0.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
+![JeNo review on WE are FPV (French)](https://img.youtube.com/vi/RtPTJsno8Kg/0.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
 
 ## Builds examples
 
+You can fine many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
+
+* [Iron JeNo 5.1" (Vista)](https://forum.wearefpv.fr/topic/20347-iron-jeno-51-vista/)
+* [JeNo - DJI Air Unit O3 (5" 6S)](https://forum.wearefpv.fr/topic/19543-jeno-dji-air-unit-o3-5-6s/)
+* [JeNo 6" cine/midrange](https://forum.wearefpv.fr/topic/20536-jeno-6-cinemidrange/)
+* [JeNo 5.1" Hybride](https://forum.wearefpv.fr/topic/20239-jeno-51-hybride/)
+* [JeNo 5" Cam Plate Ciné](https://forum.wearefpv.fr/topic/19995-jeno-5-cam-plate-cin%C3%A9)
+* [JeNo 5" Cam Plate Ciné](https://forum.wearefpv.fr/topic/19995-jeno-5-cam-plate-cin%C3%A9)
+* ...
+
+## Authors
+
+The JeNo was designed by :
+
+* nochamo - [Youtube](https://www.youtube.com/user/nochamo)
+* Jerome / Jéjé FPV - [Youtube](https://www.youtube.com/@jejefpv)
+* MotardGeek - [Youtube](https://www.youtube.com/@MotardgeekFr91) (demandeur et testeur de la version Light)
 
 ## Community TPUs
 
+In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
+
+Pulse FPV has created an impressive collection of high-quality TPU designs, which can be found on their Thingiverse page.
+
+![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 
 ## Changelog
 
+`Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
+
+**Version 1.2 (Drone-FPV-Racer) :**
+
+* Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "04 - DXF - EXTRA").
+* Addition of chamfers on the top plate (for strap routing, XT pass-through).
+* Reinforcements at the back of the bottom plate.
+* Addition of a chamfer on the bottom plate (single face).
+* Extra-light camera plate on the "light" full and base versions.
 

@@ -218,8 +218,8 @@ To quickly and fully enjoy the JeNo, a **preset** for **Betaflight 4.4** is avai
 
 In the "Preset" tab, click on "Preset sources..." to add the WE are FPV source:
 
-**Url :** https://github.com/WE-are-FPV/firmware-presets
-**GitHub branch :** waf-presets
+- **Url :** https://github.com/WE-are-FPV/firmware-presets
+- **GitHub branch :** waf-presets
 
 ![JeNo Preset Source](./images/presets_sources.png)
 

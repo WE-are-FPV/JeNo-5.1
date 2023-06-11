@@ -262,7 +262,7 @@ The JeNo was designed by :
 
 * nochamo - [Youtube](https://www.youtube.com/user/nochamo)
 * Jerome / Jéjé FPV - [Youtube](https://www.youtube.com/@jejefpv)
-* MotardGeek - [Youtube](https://www.youtube.com/@MotardgeekFr91) (demandeur et testeur de la version Light)
+* MotardGeek - [Youtube](https://www.youtube.com/@MotardgeekFr91) (requester and tester for Light version)
 
 ## Community TPUs
 

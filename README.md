@@ -111,7 +111,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 | Freestyle camera plates | Cinematic camera plates |
 | --- | --- |
 | ![Freestyle camera plates](./images/camplates_freestyle.jpg) | ![Cinematic camera plates](./images/camplates_cine.jpg) |
-| ![Freestyle Props in FOV](./images/FOV_Classic.jpg) | ![Cinematic No Props in FOV](./images/FOV_Cine.jpg) |
+| ![Freestyle Props in FOV](./images/FOV_Classic.jpg) Props in view | ![Cinematic No Props in FOV](./images/FOV_Cine.jpg) NO props in view |
 
 ### The Arms
 Several shapes are available for the arm. Weight, robustness, motor protection, and aesthetics will be the main considerations.

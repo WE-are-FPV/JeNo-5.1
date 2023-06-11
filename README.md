@@ -30,7 +30,7 @@ The issue of obstructed FOV due to standoffs or the frame itself is exacerbated 
 
 It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to ~40°.
 
-This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and solid tank**, totaling up to **140g**. However, it still allows for the option of carrying an Action Cam.
+This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11) (plus TPU). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and sturdy tank**, totaling up to **~140g**. However, it still allows for the option of carrying an Action Cam.
 
 With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
 

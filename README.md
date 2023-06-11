@@ -135,7 +135,7 @@ Feel free to modify the files according to your requirements as well. For exampl
 
 |![WE are FPV banner](./images/JeNo_CameraPlates_Light.jpg)|
 |:---:|
-| Classic Base + Light camera plates + classic arms |
+| Classic Base + Light camera plates + Classic arms |
 
 ## Buy it or cut it !
 

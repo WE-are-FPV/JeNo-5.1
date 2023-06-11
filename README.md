@@ -54,7 +54,7 @@ The JeNo is also available in 3" and 3.5" versions, which can be found on [this 
 
 ||| 
 | :--- | :--- |
-| **Géometry** | Wide-X | 
+| **Geometry** | Wide-X | 
 | **Props size** | 5.1" (or 6" with optional arms) | 
 | **Weight** | 120 à 145 g depending on options, with screws | 
 | **Arms** | 6 mm | 

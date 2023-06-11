@@ -66,8 +66,8 @@ The JeNo is also available in 3" and 3.5" versions, which can be found on [this 
 | **Camera plates** | 3 mm | 
 | **Motors mounting** | 16 mm | 
 | **Camera** | 20 mm (DJI), Micro, Nano. Clear FOV. Ajustable.
-| **Main stack** | 30.5 mm x 30.5 mm et 20 mm x 20 mm | 
-| **Back stack** | 20 mm x 20 mm et 25 .5 x 25.5 mm | 
+| **Main stack** | 30.5 mm x 30.5 mm and 20 mm x 20 mm | 
+| **Back stack** | 20 mm x 20 mm and 25 .5 x 25.5 mm | 
 | **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
 | **XT60 passage** | Yes (front and back) + passage for a zip tie | 
@@ -100,7 +100,7 @@ This concerns the core of the frame (bottom, middle, top plates, and arms key).
 _**Priority :** In the Lightweight version, the carbon is more "patterned," making it slightly more fragile._
 
 * **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
-* **Lightweight :** 1g lighter than the Classic plates (0.5g per plate).
+* **Lightweight :** 2.7g lighter than the Classic plates (1.35g per plate).
 * **Cine :** Uses elongated camera plates to remove propellers from the FOV (set to Wide with the O3).
 * **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
 

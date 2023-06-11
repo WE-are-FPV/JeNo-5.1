@@ -234,7 +234,7 @@ The preset contains **several options** to select. Note that **by default**, the
 
 Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal :
 
-![JeNo Blackbox](./images/presets_options.png)
+![JeNo Blackbox](./images/JeNo_BB.jpg)
 
 ## Videos
 Freestyle with JeNo :

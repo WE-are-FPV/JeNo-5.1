@@ -34,7 +34,7 @@ This new ability to film in **4K without needing an Action Cam** saves between 7
 
 With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
 
-![JeNo - exploded view](./images/JeNo_exploded.jpg)
+![JeNo - exploded view](./images/JeNo_exploded2.jpg)
 
 A **Light version** will allow you to maintain a more typical weight around **120g**.
 

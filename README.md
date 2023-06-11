@@ -109,7 +109,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 `Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).`
 
 | Freestyle camera plates | Cinematic camera plates |
-| --- | --- |
+| :---: | :---: |
 | ![Freestyle camera plates](./images/camplates_freestyle.jpg) | ![Cinematic camera plates](./images/camplates_cine.jpg) |
 | ![Freestyle Props in FOV](./images/FOV_Classic.jpg) Props in view | ![Cinematic No Props in FOV](./images/FOV_Cine.jpg) NO props in view |
 

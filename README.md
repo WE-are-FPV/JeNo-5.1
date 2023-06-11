@@ -278,7 +278,7 @@ In addition to the TPU options available on this page, you will find here some T
 
 **Version 1.2 (Drone-FPV-Racer) :**
 
-* Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "04 - DXF - EXTRA").
+* Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
 * Addition of chamfers on the top plate (for strap routing, XT pass-through).
 * Reinforcements at the back of the bottom plate.
 * Addition of a chamfer on the bottom plate (single face).

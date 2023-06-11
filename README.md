@@ -38,7 +38,7 @@ With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup com
 
 A **Light version** will allow you to maintain a more typical weight around **120g**.
 
-The JeNo was initially designed for Freestyle flying, which is why it features a "Wide-X" geometry. This design allows for good handling while reducing the amount of **visible propellers in the FOV** compared to a "True-X" frame (though some propellers may still be visible). A **"Cine" option** provides **elongated camera plates** for a **"Wide" FOV without visible propellers**.
+The JeNo was initially designed for Freestyle flying, which is why it features a "Wide-X" geometry. This design allows for good handling while reducing the amount of **visible propellers in the FOV** compared to a "True-X" frame (though some propellers may still be visible). A **"Cinematic" option** provides **elongated camera plates** for a **"Wide" FOV without visible propellers**.
 
 ![JeNo Cinematic - 3D render](./images/JeNo_3d_cine.jpg)
 
@@ -89,7 +89,7 @@ Here is the "menu card" and its various options:
 ![JeNo customizable options](./images/JeNo_a_la_carte.jpg)
 
 ### The Base
-This concerns the core of the frame (bottom, middle, top plates, and arm spacer).
+This concerns the core of the frame (bottom, middle, top plates, and arms key).
 
 * **Priority :** The Classic version (sturdy) features a 2.5mm bottom plate, compared to 2mm for the Lightweight version, which is also more "patterned." For the Lightweight version, the weight is approximately 120g depending on the options, compared to approximately 140g for the reinforced (classic) version.
 * **Chamfers :** The chamfered version is more aesthetically pleasing and slightly stronger. The arms have chamfers on both sides. The top plate is chamfered only on the upper part. Chamfering generally increases the price by around 15%.
@@ -101,7 +101,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 
 * **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
 * **Lightweight :** 1g lighter than the Classic plates (0.5g per plate).
-* **Ciné :** Uses elongated camera plates to eliminate propellers from the FOV (set to Wide with the O3).
+* **Cine :** Uses elongated camera plates to remove propellers from the FOV (set to Wide with the O3).
 * **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
@@ -113,10 +113,10 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 | ![Freestyle camera plates](./images/camplates_freestyle.jpg) | ![Cinematic camera plates](./images/camplates_cine.jpg) |
 
 ### The Arms
-Several shapes are available for the arm "heads". Weight, robustness, motor protection, and aesthetics will be the main considerations.
+Several shapes are available for the arm. Weight, robustness, motor protection, and aesthetics will be the main considerations.
 
 * **"Classic" :** A solid design suitable for Freestyle flying.
-* **"Light" :** Some solidity is sacrificed in favor of reduced weight.
+* **"Light" :** Some solidity is traded in favor of reduced weight.
 * **"Modus" :** The most robust shape that offers the best motor protection. It is also the heaviest arm model.
 * **"Rabbit" :** Provides good motor protection with a reasonable weight.
 
@@ -141,7 +141,8 @@ It is up to you : you can get it cut in your favourite flavour and source the ma
 In addition to the carbon fiber, you will need the following hardware to complete the assembly of the frame.
 
 **Standoffs**
-It is recommended to use 5mm diameter spacers, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
+
+It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
@@ -150,14 +151,14 @@ It is recommended to use 5mm diameter spacers, especially for those that will se
 
 **Stack materials**
 
-*If 30x30 stack
+* If 30x30 stack
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
 | 4 | M3x22mm ou M3x20mm countersunk screws | for the stack |
 | 4 | M3 nuts for stack screws | for the camera |
 
-*If 20x20 stack
+* If 20x20 stack
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
@@ -194,7 +195,7 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in PDF format.
+Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in [PDF format](./docs/assembly_guide.pdf).
 
 ![JeNo assembly - step 1](./images/step_01.jpg)
 ![JeNo assembly - step 2](./images/step_02.jpg)
@@ -208,7 +209,7 @@ Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2A
 The JeNo takes partial inspiration from two other frames:
 
 * The arm locking system of the **Apex**, with **embedded press nuts** at the end of the arms.
-* The camera plates are slightly inspired by the **aluminum** cage of the **iFlight Evoque F5X HD V2**. The design is completely different as we use only carbon fiber, but the appearance is reminiscent.
+* The camera plates are slightly inspired by the **aluminum** cage of the **iFlight Evoque F5X HD V2**. The design is completely different as we use only carbon fiber, but the look is similar.
 
 The rest of the design was guided by the constraints imposed by the Air Unit O3 and its camera, as well as our past experiences with other custom frame designs.
 

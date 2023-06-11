@@ -21,8 +21,6 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 - [x] **Roomy** (30 mm high)
 - [x] **Customizable** (weight, arms, camera plates)
 
-![JeNo Cinematic - 3D render](./images/JeNo_3d_cine.jpg)
-
 ## Presentation
 The **JeNo** is a 5.1" frame designed for the **DJI Air Unit O3**, which is not compatible with most of existing frames. It was designed to ensure that the frame is not visible in the camera's field of view (FOV) while providing good lens protection. It is also compatible with the O3 camera's ND filters.
 
@@ -41,6 +39,8 @@ With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup com
 A **Light version** will allow you to maintain a more typical weight around **120g**.
 
 The JeNo was initially designed for Freestyle flying, which is why it features a "Wide-X" geometry. This design allows for good handling while reducing the amount of **visible propellers in the FOV** compared to a "True-X" frame (though some propellers may still be visible). A **"Cine" option** provides **elongated camera plates** for a **"Wide" FOV without visible propellers**.
+
+![JeNo Cinematic - 3D render](./images/JeNo_3d_cine.jpg)
 
 Several pattern options for the arm are also available.
 

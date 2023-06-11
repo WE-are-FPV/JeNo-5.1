@@ -28,7 +28,7 @@ Originally intended for freestyle flying, **flight quality** and **durability** 
 
 The issue of obstructed FOV due to standoffs or the frame itself is exacerbated with the O3 camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3**.
 
-It is optimized for a 25° FOV but can support FOVs ranging from 0° to ~40°.
+It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to ~40°.
 
 This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and solid tank**, totaling up to **140g**. However, it still allows for the option of carrying an Action Cam.
 

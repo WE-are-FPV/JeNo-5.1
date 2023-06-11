@@ -268,7 +268,7 @@ The JeNo was designed by :
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
 
-Pulse FPV has created an impressive collection of high-quality TPU designs, which can be found on their Thingiverse page.
+[Pulse FPV](https://www.youtube.com/channel/UCUWnkQ2-IbQYc6LpTXz01qw) has created an impressive collection of high-quality TPU designs, which can be found on his [Thingiverse page](https://www.thingiverse.com/thing:5804682).
 
 ![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 

@@ -289,6 +289,8 @@ In addition to the TPU options available on this page, you will find here some T
 * Addition of a chamfer on the bottom plate (single face).
 * Extra-light camera plate on the "light"  version (full and base DXF).
 
-## Join the JeNo familly !
+## Join the JeNo family !
 
-![WE are FPV banner](./images/JeNo_family.jpg)
+|![WE are FPV banner](./images/JeNo_family.jpg)|
+|:---:|
+| JeNo Classic Modus (left), JeNo Cine (right), JeNo 6" (top), JeNo 3" (bottom) |

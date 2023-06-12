@@ -135,7 +135,7 @@ Feel free to modify the files according to your requirements as well. For exampl
 
 |![WE are FPV banner](./images/JeNo_CameraPlates_Light.jpg)|
 |:---:|
-| Classic Base + Light camera plates + Classic arms |
+| Classic Base Light + Light Camera Plates + Classic Arms |
 
 ## Buy it or cut it !
 
@@ -289,3 +289,6 @@ In addition to the TPU options available on this page, you will find here some T
 * Addition of a chamfer on the bottom plate (single face).
 * Extra-light camera plate on the "light"  version (full and base DXF).
 
+## Join the JeNo familly !
+
+![WE are FPV banner](./images/JeNo_family.jpg)

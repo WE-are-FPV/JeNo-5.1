@@ -5,7 +5,7 @@ _**5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, 
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 
-Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is flown by dozens of french pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/?aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) of the JeNo exists (French only at the moment).
+Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is flown by dozens of french pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) of the JeNo exists (French only at the moment).
 
 ![JeNo classic - 3D render](./images/JeNo_3d_classic.jpg)
 

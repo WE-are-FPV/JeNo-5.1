@@ -139,7 +139,10 @@ Feel free to modify the files according to your requirements as well. For exampl
 
 ## Buy it or cut it !
 
-It is up to you : you can get it cut in your favourite flavour and source the materials yourself, or you can get a classic or cine version directly from Drone FPV Racer.
+It is up to you : you can get it cut in your favourite flavour and source the materials yourself, or you can get a classic or cine version directly from Drone FPV Racer :
+
+* [JeNo Classic by DFR](https://waf.link/JeNo-DFR)
+* [JeNo Cine by DFR](https://waf.link/JeNo-Cine-DFR)
 
 ## Bill of materials
 

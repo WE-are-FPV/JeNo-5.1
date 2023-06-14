@@ -255,13 +255,14 @@ JeNo review on WE are FPV (French) :
 
 ## Builds examples
 
-You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
+You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) and [RotorBuilds](https://rotorbuilds.com) :
 
-* [Iron JeNo 5.1" (Vista)](https://forum.wearefpv.fr/topic/20347-iron-jeno-51-vista/)
-* [JeNo - DJI Air Unit O3 (5" 6S)](https://forum.wearefpv.fr/topic/19543-jeno-dji-air-unit-o3-5-6s/)
-* [JeNo 6" cine/midrange](https://forum.wearefpv.fr/topic/20536-jeno-6-cinemidrange/)
-* [JeNo 5.1" Hybride](https://forum.wearefpv.fr/topic/20239-jeno-51-hybride/)
-* [JeNo 5" Cam Plate Ciné](https://forum.wearefpv.fr/topic/19995-jeno-5-cam-plate-cin%C3%A9)
+* en : [JeNo 5.1" WE are FPV O3](https://rotorbuilds.com/build/31216)
+* fr : [Iron JeNo 5.1" (Vista)](https://forum.wearefpv.fr/topic/20347-iron-jeno-51-vista/)
+* fr : [JeNo - DJI Air Unit O3 (5" 6S)](https://forum.wearefpv.fr/topic/19543-jeno-dji-air-unit-o3-5-6s/)
+* fr : [JeNo 6" cine/midrange](https://forum.wearefpv.fr/topic/20536-jeno-6-cinemidrange/)
+* fr : [JeNo 5.1" Hybride](https://forum.wearefpv.fr/topic/20239-jeno-51-hybride/)
+* fr : [JeNo 5" Cam Plate Ciné](https://forum.wearefpv.fr/topic/19995-jeno-5-cam-plate-cin%C3%A9)
 * ...
 
 ## Authors

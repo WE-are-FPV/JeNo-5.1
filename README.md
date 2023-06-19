@@ -210,7 +210,7 @@ Here is a [video of the JeNo assembly (FR)](https://youtu.be/SF4UAqyNPJ0), and y
 ![JeNo assembly - step 3](./images/step_03.jpg)
 ![JeNo assembly - step 4](./images/step_04.jpg)
 
-The assembly is illustrated with cinematic camera plates, which allow the use of up to 4 standoffs (see visual in step 5 below). In practice, 2 spacers at the front are sufficient, just like with regular camera plates (see step 4).
+The assembly is illustrated with cinematic camera plates, which allow the use of up to 4 standoffs (see visual in step 5 below). In practice, 2 standoffs at the front are sufficient, just like with regular camera plates (see step 4).
 
 ![JeNo assembly - step 5](./images/step_05.jpg)
 ![JeNo assembly - step 6](./images/step_06.jpg)

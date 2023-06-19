@@ -203,12 +203,15 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a [video of the JeNo assembly](https://www.youtube.com/watch?v=7vlNV8-2Ado), and you will find the assembly documentation below, also available here in [PDF format](./docs/assembly_guide.pdf).
+Here is a [video of the JeNo assembly (FR)](https://youtu.be/SF4UAqyNPJ0), and you will find the assembly documentation below, also available here in [PDF format](./docs/assembly_guide.pdf).
 
 ![JeNo assembly - step 1](./images/step_01.jpg)
 ![JeNo assembly - step 2](./images/step_02.jpg)
 ![JeNo assembly - step 3](./images/step_03.jpg)
 ![JeNo assembly - step 4](./images/step_04.jpg)
+
+The assembly is illustrated with cinematic camera plates, which allow the use of up to 4 standoffs (see visual in step 5 below). In practice, 2 spacers at the front are sufficient, just like with regular camera plates (see step 4).
+
 ![JeNo assembly - step 5](./images/step_05.jpg)
 ![JeNo assembly - step 6](./images/step_06.jpg)
 

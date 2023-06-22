@@ -187,8 +187,10 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
-| 16 | M3x10mm screws | for the motors |
+| 16 | M3x10mm screws (if using arms protections) or M3x8mm (if no TPU) | for the motors |
 | 4 | M2x5mm screws | for the camera |
+
+In the absence of arm protection, 8mm screws are recommended. 10mm screws are sometimes too long for certain motors and can cause current leaks.
 
 **Fasten the lipo**
 

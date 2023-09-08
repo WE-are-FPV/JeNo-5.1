@@ -32,7 +32,7 @@ It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to 
 
 This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11) (plus TPU). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and sturdy tank**, totaling up to **~140g**. However, it still allows for the option of carrying an Action Cam.
 
-A set of **optimized TPU for bando bashing** is also available to guarantee the best durability.
+A set of **[optimized TPU for bando bashing](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/tpu/bando_edition)** is also available to guarantee the best durability.
 
 With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
 
@@ -284,7 +284,7 @@ The JeNo was designed by :
 
 Among the downloadable files, you will find a variety of TPU to protect your JeNo and different Action Cams.
 
-Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV](https://www.youtube.com/@heim_fpv589), from the **__#bandolovers__** team, we have designed a set of TPU parts optimized for bando flying. If you're looking to reinforce your JeNo to the maximum extent, this kit is tailored for you. It includes:
+Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV](https://www.youtube.com/@heim_fpv589), from the **__#bandolovers__** team, we have designed a set of [TPU parts optimized for bando flying](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/tpu/bando_edition). If you're looking to reinforce your JeNo to the maximum extent, this kit is tailored for you. It includes:
 
 * A **front bumper** that will safeguard the entire camera cage and assist in absorbing frontal impacts.
 * A **back bumper** for worry-free matty flips (it also allows for attaching the RX antenna).

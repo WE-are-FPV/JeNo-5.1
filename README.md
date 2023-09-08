@@ -32,6 +32,8 @@ It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to 
 
 This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11) (plus TPU). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and sturdy tank**, totaling up to **~140g**. However, it still allows for the option of carrying an Action Cam.
 
+A set of **optimized TPU for bando bashing** is also available to guarantee the best durability.
+
 With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
 
 ![JeNo - exploded view](./images/JeNo_exploded2.jpg)
@@ -277,6 +279,20 @@ The JeNo was designed by :
 * nochamo - [Youtube](https://www.youtube.com/user/nochamo)
 * Jerome / Jéjé FPV - [Youtube](https://www.youtube.com/@jejefpv)
 * MotardGeek - [Youtube](https://www.youtube.com/@MotardgeekFr91) (requester and tester for Light version)
+
+## TPU
+
+Among the downloadable files, you will find a variety of TPU to protect your JeNo and different Action Cams.
+
+Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV](https://www.youtube.com/@heim_fpv589), from the **__#bandolovers__** team, we have designed a set of TPU parts optimized for bando flying. If you're looking to reinforce your JeNo to the maximum extent, this kit is tailored for you. It includes:
+
+* A **front bumper** that will safeguard the entire camera cage and assist in absorbing frontal impacts.
+* A **back bumper** for worry-free matty flips (it also allows for attaching the RX antenna).
+* A much sturdier and encompassing **VTX antenna support**, with an inclination that better tolerates impacts from the rear (available in O3 and "cherry" versions).
+* 2 new **arm protections**, offering not only better arm protection but also motor protection. The first version is "clippable" and replaceable without disassembling the motors. The second completely encases the arm tips and has no chance of being ejected during a crash.
+* An optimized **DJI Action 2 mount** for bando flying (without an ND filter) (available in 20 and 25-degree versions).
+
+If the cap of your Air Unit O3 antenna is lost, several designs are [available here](https://www.printables.com/fr/model/556697-dji-air-unit-o3-antenna-cap-3-versions) for replacement.
 
 ## Community TPUs
 

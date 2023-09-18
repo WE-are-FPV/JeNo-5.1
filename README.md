@@ -286,11 +286,13 @@ Among the downloadable files, you will find a variety of TPU to protect your JeN
 
 Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV](https://www.youtube.com/@heim_fpv589), from the **__#bandolovers__** team, we have designed a set of [TPU parts optimized for bando flying](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/tpu/bando_edition). If you're looking to reinforce your JeNo to the maximum extent, this kit is tailored for you. It includes:
 
-* A **front bumper** that will safeguard the entire camera cage and assist in absorbing frontal impacts.
+* A **front bumper** that will safeguard the entire camera cage and assist in absorbing frontal impacts. It is available for classic, cine and high tilt camera plates.
 * A **back bumper** for worry-free matty flips (it also allows for attaching the RX antenna).
 * A much sturdier and encompassing **VTX antenna support**, with an inclination that better tolerates impacts from the rear (available in O3 and "cherry" versions).
 * 2 new **arm protections**, offering not only better arm protection but also motor protection. The first version is "clippable" and replaceable without disassembling the motors. The second completely encases the arm tips and has no chance of being ejected during a crash.
-* An optimized **DJI Action 2 mount** for bando flying (without an ND filter) (available in 20 and 25-degree versions).
+* An optimized **DJI Action 2 mount** for bando flying, without an ND filter, available in 20 and 25-degree versions (not the one on the photo here under, which is the classic version).
+
+![Bando TPU set](./images/Bando_TPU_set.jpg)
 
 If the cap of your Air Unit O3 antenna is lost, several designs are [available here](https://www.printables.com/fr/model/556697-dji-air-unit-o3-antenna-cap-3-versions) for replacement.
 

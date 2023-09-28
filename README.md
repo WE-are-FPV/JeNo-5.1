@@ -304,6 +304,10 @@ In addition to the TPU options available on this page, you will find here some T
 
 ![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 
+[Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
+
+[Support GP9, Walksnail, GPS, ViFly etc.](https://www.thingiverse.com/-kc-/designs) by [kC](https://www.youtube.com/@kCer)
+
 ## Changelog
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`

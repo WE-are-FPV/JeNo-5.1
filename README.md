@@ -5,7 +5,7 @@ _**5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, 
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 
-Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is flown by dozens of french pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) of the JeNo exists (French only at the moment).
+Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) and a [7" version](https://www.printables.com/fr/model/847975-jeno-7-drone-frame) of the JeNo exist (French only at the moment).
 
 ![JeNo classic - 3D render](./images/JeNo_3d_classic.jpg)
 
@@ -51,6 +51,8 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 ![WE are FPV banner](./images/waf-jeno.jpg)
 
 The JeNo is also available in 3" and 3.5" versions, which can be found on [this Printables page](https://www.printables.com/fr/model/459702-jeno-335-drone-frame).
+
+We recently added 7" version, also available on [this Printables page](https://www.printables.com/fr/model/847975-jeno-7-drone-frame).
 
 ## Detaileds specifications
 
@@ -105,6 +107,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 * **Lightweight :** 2.7g lighter than the Classic plates (1.35g per plate).
 * **Cine :** Uses elongated camera plates to remove propellers from the FOV (set to Wide with the O3).
 * **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
+* **High tilt :** allows for a 40° tilt for high tilt adepts
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
 
@@ -122,6 +125,7 @@ Several shapes are available for the arm. Weight, robustness, motor protection, 
 * **"Light" :** Some solidity is traded in favor of reduced weight.
 * **"Modus" :** The most robust shape that offers the best motor protection. It is also the heaviest arm model.
 * **"Rabbit" :** Provides good motor protection with a reasonable weight.
+* **"Bando Edition" :** A beefier and stronger model
 
 ![JeNo Arms](./images/JeNo_arms.jpg)
 
@@ -131,6 +135,7 @@ In the "dxf/04_extras" folder, you will find additional options that cater to mo
 * 6" Arms
 * Ultra-light Camera Plates
 * High Tilt Camera Plates (40°)
+* Top plate with 2 straps areas (instead of 3)
 * ...
 
 Feel free to modify the files according to your requirements as well. For example, if you want even more solidity, you can indicate that you would like thicker bottom and top plates (remember to adjust the screw length accordingly).
@@ -138,6 +143,10 @@ Feel free to modify the files according to your requirements as well. For exampl
 |![WE are FPV banner](./images/JeNo_CameraPlates_Light.jpg)|
 |:---:|
 | Classic Base Light + Light Camera Plates + Classic Arms |
+
+|![WE are FPV banner](./images/JeNo_6inches.jpg)|
+|:---:|
+| JeNo Classic + 6" Arms |
 
 ## Buy it or cut it !
 
@@ -192,7 +201,7 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 | 16 | M3x10mm screws (if using arms protections) or M3x8mm (if no TPU) | for the motors |
 | 4 | M2x5mm screws | for the camera |
 
-In the absence of arm protection, 8mm screws are recommended. 10mm screws are sometimes too long for certain motors and can cause current leaks.
+_**In the absence of arm protection, 8mm screws are recommended. 10mm screws are sometimes too long for certain motors and can cause current leaks.**_
 
 **Fasten the lipo**
 
@@ -230,7 +239,7 @@ The rest of the design was guided by the constraints imposed by the Air Unit O3 
 
 ## Presets
 
-To quickly and fully enjoy the JeNo, a **preset** for **Betaflight 4.4** is available. You just need to add the **WE are FPV repository** to the **preset sources** in Betaflight Configurator.
+To quickly and fully enjoy the JeNo, a **preset** for **Betaflight 4.4 and 4.5** is available. You just need to add the **WE are FPV repository** to the **preset sources** in Betaflight Configurator.
 
 In the "Preset" tab, click on "Preset sources..." to add the WE are FPV source:
 
@@ -239,7 +248,7 @@ In the "Preset" tab, click on "Preset sources..." to add the WE are FPV source:
 
 ![JeNo Preset Source](./images/presets_sources.png)
 
-Once the source is validated, you simply need to make it "active" to access the JeNo presets under the **"Tune" category** in **version "4.4"**. The preset is available in both **French (FR)** and **English**, and it is indeed the **same tune**.
+Once the source is validated, you simply need to make it "active" to access the JeNo presets under the **"Tune" category** in **version "4.4 or 4.5"**. The preset is available in both **French (FR)** and **English**, and it is indeed the **same tune**.
 
 ![JeNo Preset Options](./images/presets_options.png)
 
@@ -247,7 +256,7 @@ The preset contains **several options** to select. Note that **by default**, the
 
 ## Blackbox
 
-Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal :
+Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal for a 3 minutes freestyle flight :
 
 ![JeNo Blackbox](./images/JeNo_BB.jpg)
 
@@ -288,7 +297,7 @@ Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV
 
 * A **front bumper** that will safeguard the entire camera cage and assist in absorbing frontal impacts. It is available for classic, cine and high tilt camera plates.
 * A **back bumper** for worry-free matty flips (it also allows for attaching the RX antenna).
-* A much sturdier and encompassing **VTX antenna support**, with an inclination that better tolerates impacts from the rear (available in O3 and "cherry" versions).
+* A much sturdier and encompassing **VTX antenna support**, with an inclination that better tolerates impacts from the rear (available in O3 and "cherry" versions). 2 holes allow for an easy antenna ejection if required.
 * 2 new **arm protections**, offering not only better arm protection but also motor protection. The first version is "clippable" and replaceable without disassembling the motors. The second completely encases the arm tips and has no chance of being ejected during a crash.
 * An optimized **DJI Action 2 mount** for bando flying, without an ND filter, available in 20 and 25-degree versions (not the one on the photo here under, which is the classic version).
 
@@ -296,24 +305,46 @@ Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV
 
 If the cap of your Air Unit O3 antenna is lost, several designs are [available here](https://www.printables.com/fr/model/556697-dji-air-unit-o3-antenna-cap-3-versions) for replacement.
 
-## Community TPUs
+## Community (remixes and TPU)
+
+**Fork/remix**
+*[Platy FPV](https://www.youtube.com/channel/UCqOLDBE34WiqytAgCRManAg) has reimagined the JeNo to suit his needs: lighter, shorter, low profile, and with a split deck. Find all the details of the [JeNo 5.1" - PlatyStyle Edition](https://www.printables.com/fr/model/744619-jeno-51-platystyle-edition) on their Printables page and on the [WE are FPV forum](https://forum.wearefpv.fr/topic/22236-jeno-51-platystyle-un-jeno-sous-hormones).
+
+![PlatyStyle Edition](./images/BPlatyEdition.png)
+
+**TPU**
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
 
-[Pulse FPV](https://www.youtube.com/channel/UCUWnkQ2-IbQYc6LpTXz01qw) has created an impressive collection of high-quality TPU designs, which can be found on his [Thingiverse page](https://www.thingiverse.com/thing:5804682).
+*[Pulse FPV](https://www.youtube.com/channel/UCUWnkQ2-IbQYc6LpTXz01qw) has created an impressive collection of high-quality TPU designs, which can be found on his [Thingiverse page](https://www.thingiverse.com/thing:5804682).
 
 ![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 
-[Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
+*[Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
 
-[Support GP9, Walksnail, GPS, ViFly etc.](https://www.thingiverse.com/-kc-/designs) by [kC](https://www.youtube.com/@kCer)
+![Bard FPV STLs](./images/BardFPV_STLs.jpg)
+
+*[Support GP9, Walksnail, GPS, ViFly etc.](https://www.thingiverse.com/-kc-/designs) by [kC](https://www.youtube.com/@kCer)
+*[Modus rising arm protection](https://www.printables.com/fr/model/830201-jeno-51-protection-bras-modus) to safeguard the bells, [short double antenna backpack](https://www.printables.com/fr/model/830229-jeno-51-support-double-antennes-vista-pour-o3) by [Florian](https://www.printables.com/fr/@FloG_149541/models). 
+*Several [GoPro mounts](https://www.printables.com/fr/@PhenXFrame/models) (5 to 7 and 9 to 12) by [Phen X Frame](https://www.printables.com/fr/@PhenXFrame)
+*[GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
+*[GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Ciné by [shaks](https://www.printables.com/fr/@shaks_729955)
 
 ## Changelog
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
+**19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
+**13/12/2023 Version 1.31**
+*hole removed from classic arms
+*Slight optimization of the bottom plate for increased solidity (classic edition only)
+*2 straps top plate is the new default for increased solidity (classic edition only)
+**08/10/2023 :** bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
+**03/09/2023 :** collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
+**08/07/2023 :** new top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
+**24/04/2023 :** High tilt camera plates added (in “dxf\04_extras”)
+**09/03/2023 :** 6" arms added (in “dxf\04_extras”)
 **Version 1.2 (Drone-FPV-Racer) :**
-
 * Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
 * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
 * Reinforcements at the back of the bottom plate.

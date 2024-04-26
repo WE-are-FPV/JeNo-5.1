@@ -52,7 +52,7 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 
 The JeNo is also available in 3" and 3.5" versions, which can be found on [this Printables page](https://www.printables.com/fr/model/459702-jeno-335-drone-frame).
 
-We recently added 7" version, also available on [this Printables page](https://www.printables.com/fr/model/847975-jeno-7-drone-frame).
+We recently added a 7" version, also available on [this Printables page](https://www.printables.com/fr/model/847975-jeno-7-drone-frame).
 
 ## Detaileds specifications
 
@@ -308,42 +308,49 @@ If the cap of your Air Unit O3 antenna is lost, several designs are [available h
 ## Community (remixes and TPU)
 
 **Fork/remix**
-*[Platy FPV](https://www.youtube.com/channel/UCqOLDBE34WiqytAgCRManAg) has reimagined the JeNo to suit his needs: lighter, shorter, low profile, and with a split deck. Find all the details of the [JeNo 5.1" - PlatyStyle Edition](https://www.printables.com/fr/model/744619-jeno-51-platystyle-edition) on their Printables page and on the [WE are FPV forum](https://forum.wearefpv.fr/topic/22236-jeno-51-platystyle-un-jeno-sous-hormones).
+* [Platy FPV](https://www.youtube.com/channel/UCqOLDBE34WiqytAgCRManAg) has reimagined the JeNo to suit his needs: lighter, shorter, low profile, and with a split deck. Find all the details of the [JeNo 5.1" - PlatyStyle Edition](https://www.printables.com/fr/model/744619-jeno-51-platystyle-edition) on their Printables page and on the [WE are FPV forum](https://forum.wearefpv.fr/topic/22236-jeno-51-platystyle-un-jeno-sous-hormones).
 
-![PlatyStyle Edition](./images/BPlatyEdition.png)
+![PlatyStyle Edition](./images/PlatyEdition.png)
 
 **TPU**
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
 
-*[Pulse FPV](https://www.youtube.com/channel/UCUWnkQ2-IbQYc6LpTXz01qw) has created an impressive collection of high-quality TPU designs, which can be found on his [Thingiverse page](https://www.thingiverse.com/thing:5804682).
+* [Pulse FPV](https://www.youtube.com/channel/UCUWnkQ2-IbQYc6LpTXz01qw) has created an impressive collection of high-quality TPU designs, which can be found on his [Thingiverse page](https://www.thingiverse.com/thing:5804682).
 
 ![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 
-*[Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
+* [Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
 
 ![Bard FPV STLs](./images/BardFPV_STLs.jpg)
 
-*[Support GP9, Walksnail, GPS, ViFly etc.](https://www.thingiverse.com/-kc-/designs) by [kC](https://www.youtube.com/@kCer)
-*[Modus rising arm protection](https://www.printables.com/fr/model/830201-jeno-51-protection-bras-modus) to safeguard the bells, [short double antenna backpack](https://www.printables.com/fr/model/830229-jeno-51-support-double-antennes-vista-pour-o3) by [Florian](https://www.printables.com/fr/@FloG_149541/models). 
-*Several [GoPro mounts](https://www.printables.com/fr/@PhenXFrame/models) (5 to 7 and 9 to 12) by [Phen X Frame](https://www.printables.com/fr/@PhenXFrame)
-*[GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
-*[GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Ciné by [shaks](https://www.printables.com/fr/@shaks_729955)
+* [Support GP9, Walksnail, GPS, ViFly etc.](https://www.thingiverse.com/-kc-/designs) by [kC](https://www.youtube.com/@kCer)
+* [Modus rising arm protection](https://www.printables.com/fr/model/830201-jeno-51-protection-bras-modus) to safeguard the bells, [short double antenna backpack](https://www.printables.com/fr/model/830229-jeno-51-support-double-antennes-vista-pour-o3) by [Florian](https://www.printables.com/fr/@FloG_149541/models). 
+* Several [GoPro mounts](https://www.printables.com/fr/@PhenXFrame/models) (5 to 7 and 9 to 12) by [Phen X Frame](https://www.printables.com/fr/@PhenXFrame)
+* [GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
+* [GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Ciné by [shaks](https://www.printables.com/fr/@shaks_729955)
 
 ## Changelog
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
 **19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
+
 **13/12/2023 Version 1.31**
-*hole removed from classic arms
-*Slight optimization of the bottom plate for increased solidity (classic edition only)
-*2 straps top plate is the new default for increased solidity (classic edition only)
+* hole removed from classic arms
+* Slight optimization of the bottom plate for increased solidity (classic edition only)
+* 2 straps top plate is the new default for increased solidity (classic edition only)
+
 **08/10/2023 :** bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
+
 **03/09/2023 :** collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
+
 **08/07/2023 :** new top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
+
 **24/04/2023 :** High tilt camera plates added (in “dxf\04_extras”)
+
 **09/03/2023 :** 6" arms added (in “dxf\04_extras”)
+
 **Version 1.2 (Drone-FPV-Racer) :**
 * Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
 * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).

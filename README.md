@@ -263,11 +263,11 @@ Here is an overview of vibration distribution on the 3 axes for the JeNo "classi
 ## Videos
 Freestyle with JeNo :
 
-[![JeNo 5.1 Maiden](https://img.youtube.com/vi/Fe3_sJf0j6o/0.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
+[![JeNo 5.1 Maiden](./images/JeNo5_video_maiden.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
 
 JeNo review on WE are FPV (French) :
 
-[![JeNo review on WE are FPV (French)](https://img.youtube.com/vi/RtPTJsno8Kg/0.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
+[![JeNo review on WE are FPV (French)](./images/JeNo5_video_review.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
 
 ## Builds examples
 

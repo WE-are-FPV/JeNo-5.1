@@ -189,8 +189,8 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
 | 6 | M3x6/8mm countersunk screws | for the top plate |
-| 14 | M3x8mm screws (titanium if possible) | |
-| 8 | Pressnuts (Flywoo or SourceOne alike) | |
+| 14 | M3x8mm screws (titanium if possible) | for the bottom and camera plates |
+| 8 | Pressnuts ([Flywoo](https://www.drone-fpv-racer.com/flywoo-m3-clinch-nuts-20-pcs-7965.html?aff=64&id_campaign=13#/1063-couleur-titane) or SourceOne alike) | |
 | 4 | M3x14mm screws (steel if possible) | for the arms |
 | 4 | M3x8mm screws (steel if possible) | for the arms |
 

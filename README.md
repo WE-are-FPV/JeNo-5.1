@@ -175,14 +175,14 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
 | 4 | M3x22mm ou M3x20mm countersunk screws | for the stack |
-| 4 | M3 nuts for stack screws | for the camera |
+| 4 | M3 nuts for stack screws | |
 
 * If 20x20 stack
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
 | 4 | M2x20mm countersunk screws | for the stack |
-| 4 | M2 nuts for stack screws | for the camera |
+| 4 | M2 nuts for stack screws | |
 
 **Frame materials**
 

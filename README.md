@@ -328,7 +328,7 @@ In addition to the TPU options available on this page, you will find here some T
 * [Modus rising arm protection](https://www.printables.com/fr/model/830201-jeno-51-protection-bras-modus) to safeguard the bells, [short double antenna backpack](https://www.printables.com/fr/model/830229-jeno-51-support-double-antennes-vista-pour-o3) by [Florian](https://www.printables.com/fr/@FloG_149541/models). 
 * Several [GoPro mounts](https://www.printables.com/fr/@PhenXFrame/models) (5 to 7 and 9 to 12) by [Phen X Frame](https://www.printables.com/fr/@PhenXFrame)
 * [GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
-* [GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Ciné by [shaks](https://www.printables.com/fr/@shaks_729955)
+* [GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Cine by [shaks](https://www.printables.com/fr/@shaks_729955)
 
 ## Changelog
 

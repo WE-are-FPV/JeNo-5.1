@@ -172,10 +172,29 @@ Feel free to modify the files according to your requirements as well. For exampl
 
 ## Buy it or cut it !
 
-It is up to you : you can get it cut in your favourite flavour and source the materials yourself, or you can get a classic or cine version directly from Drone FPV Racer :
+It is up to you : you can get it cut or you can get a classic or cine version directly from Drone FPV Racer :
 
 * [JeNo Classic by DFR](https://waf.link/JeNo-DFR) (affiliate link)
 * [JeNo Cine by DFR](https://waf.link/JeNo-Cine-DFR) (affiliate link)
+
+The ["dxf"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
+
+* **00_full_frame** : this folder contains the different versions with all the parts in a single file
+  * **JeNo_Full_Classic.dxf :** Classic version
+  * **JeNo_Full_Classic_WAF_Edition.dxf :** Classic version with "WAF" engraved under the bottom plate
+  * **JeNo_Full_Light.dxf :** Light version
+  * **JeNo_Full_Light_WAF_Edition.dxf :** Light version with "WAF" engraved under the bottom plate
+  * **JeNo_Full_Classic_NoChamfered.dxf :** Classic version without chamfers (lower cost)
+  * **JeNo_Full_Light_WAF_Edition.dxf :** Light version without chamfers (lower cost)
+ 
+> [!NOTE]
+> Each file contains all parts.
+> All camera plates versions are included in the files.
+
+* **01_base** : this  folder contains top, bottom and middle plates + key for each version
+* **02_camera_plates :** different versions of camera plates
+* **03_arms : ** different versions of arms
+* **04_extras :** contains specific and optional parts
 
 ## Bill of materials
 

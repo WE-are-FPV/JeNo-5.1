@@ -1,14 +1,33 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+![JeNo - Front view](./images/JeNo_front.jpg)
+
 # JeNo 5.1"
 ***5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, Freeride and Cinematic. Many customizable options are available.***
-
-![JeNo - Front view](./images/JeNo_front.jpg)
 
 > [!NOTE]
 > Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) and a [7" version](https://www.printables.com/fr/model/847975-jeno-7-drone-frame) of the JeNo exist (French only at the moment).
 
 ![JeNo classic - 3D render](./images/JeNo_3d_classic.jpg)
+
+## Table of contents
+
+* [Key features](#key-features)
+* [Presentation](#presentation)
+* [Detailed specifications](#detailed-specifications)
+* [Customization](#customization)
+* [Buy it or cut it !](#buy-it-or-cut-it-)
+* [Bill of materials](#bill-of-materials)
+* [Building/Assembly guide](#buildingassembly-guide)
+* [Inspiration](#inspiration)
+* [Tuning, Betaflight Preset](#tuning-betaflight-preset)
+* [Blackbox](#blackbox)
+* [Videos](#videos)
+* [Builds examples](#builds-examples)
+* [Authors](#authors)
+* [TPU](#tpu)
+* [Community (remixes and TPU)](#community-remixes-and-tpu)
+* [Changelog](#changelog)
 
 ## Key features
 - [x] **Sturdiness** and **rigidity** (6 mm arms)
@@ -87,7 +106,8 @@ To have a complete frame, you will need to choose:
 * A type of **camera plates**
 * A model of **arms**
 
-**All components are compatible with each other.**
+> [!TIP]
+> All components are compatible with each other.
 
 Here is the "menu card" and its various options:
 
@@ -112,7 +132,8 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
 
-`Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).`
+> [!CAUTION]
+> Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).
 
 | Freestyle camera plates | Cinematic camera plates |
 | :---: | :---: |
@@ -238,7 +259,7 @@ The JeNo takes partial inspiration from two other frames:
 
 The rest of the design was guided by the constraints imposed by the Air Unit O3 and its camera, as well as our past experiences with other custom frame designs.
 
-## Presets
+## Tuning, Betaflight Preset
 
 To quickly and fully enjoy the JeNo, a **preset** for **Betaflight 4.4 and 4.5** is available. You just need to add the **WE are FPV repository** to the **preset sources** in Betaflight Configurator.
 

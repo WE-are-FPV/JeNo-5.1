@@ -70,9 +70,9 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 
 ![WE are FPV banner](./images/waf-jeno.jpg)
 
-The JeNo is also available in 3" and 3.5" versions, which can be found on [this Printables page](https://www.printables.com/fr/model/459702-jeno-335-drone-frame).
+The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-FPV/JeNo-3-3.5).
 
-We recently added a 7" version, also available on [this Printables page](https://www.printables.com/fr/model/847975-jeno-7-drone-frame).
+We recently added a [7" version](https://github.com/WE-are-FPV/JeNo-7).
 
 ## Detailed specifications
 

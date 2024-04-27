@@ -157,7 +157,7 @@ In the ["dxf/04_extras"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf/04
 * 6" Arms
 * Ultra-light Camera Plates
 * High Tilt Camera Plates (40°)
-* Top plate with 2 straps areas (instead of 3)
+* Top plate with 2 or 3 straps areas
 * ...
 
 Feel free to modify the files according to your requirements as well. For example, if you want even more solidity, you can indicate that you would like thicker bottom and top plates (remember to adjust the screw length accordingly).

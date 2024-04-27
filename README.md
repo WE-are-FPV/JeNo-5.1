@@ -80,7 +80,7 @@ We recently added a [7" version](https://github.com/WE-are-FPV/JeNo-7).
 | :--- | :--- |
 | **Geometry** | Wide-X | 
 | **Props size** | 5.1" (or 6" with optional arms) | 
-| **Weight** | 120 à 145 g depending on options, with screws | 
+| **Weight** | 120 to 145 g depending on options, with screws | 
 | **Arms** | 6 mm | 
 | **Body height** | 30 mm | 
 | **Stack height** | 21.5 mm | 

@@ -334,29 +334,22 @@ In addition to the TPU options available on this page, you will find here some T
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
-**19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
-
-**13/12/2023 Version 1.31**
-* hole removed from classic arms
-* Slight optimization of the bottom plate for increased solidity (classic edition only)
-* 2 straps top plate is the new default for increased solidity (classic edition only)
-
-**08/10/2023 :** bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
-
-**03/09/2023 :** collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
-
-**08/07/2023 :** new top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
-
-**24/04/2023 :** High tilt camera plates added (in “dxf\04_extras”)
-
-**09/03/2023 :** 6" arms added (in “dxf\04_extras”)
-
-**Version 1.2 (Drone-FPV-Racer) :**
-* Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
-* Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
-* Reinforcements at the back of the bottom plate.
-* Addition of a chamfer on the bottom plate (single face).
-* Extra-light camera plate on the "light"  version (full and base DXF).
+* **19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
+* **13/12/2023 Version 1.31**
+  * hole removed from classic arms
+  * Slight optimization of the bottom plate for increased solidity (classic edition only)
+  * 2 straps top plate is the new default for increased solidity (classic edition only)
+* **08/10/2023 :** bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
+* **03/09/2023 :** collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
+* **08/07/2023 :** new top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
+* **24/04/2023 :** High tilt camera plates added (in “dxf\04_extras”)
+* **09/03/2023 :** 6" arms added (in “dxf\04_extras”)
+* **Version 1.2 (Drone-FPV-Racer) :**
+  * Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
+  * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
+  * Reinforcements at the back of the bottom plate.
+  * Addition of a chamfer on the bottom plate (single face).
+  * Extra-light camera plate on the "light"  version (full and base DXF).
 
 ## Join the JeNo family !
 

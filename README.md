@@ -5,7 +5,8 @@
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 
-Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) and a [7" version](https://www.printables.com/fr/model/847975-jeno-7-drone-frame) of the JeNo exist (French only at the moment).
+> [!NOTE]
+> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://www.printables.com/fr/model/459702-jeno-335-drone-frame) and a [7" version](https://www.printables.com/fr/model/847975-jeno-7-drone-frame) of the JeNo exist (French only at the moment).
 
 ![JeNo classic - 3D render](./images/JeNo_3d_classic.jpg)
 
@@ -54,7 +55,7 @@ The JeNo is also available in 3" and 3.5" versions, which can be found on [this 
 
 We recently added a 7" version, also available on [this Printables page](https://www.printables.com/fr/model/847975-jeno-7-drone-frame).
 
-## Detaileds specifications
+## Detailed specifications
 
 ||| 
 | :--- | :--- |
@@ -332,7 +333,8 @@ In addition to the TPU options available on this page, you will find here some T
 
 ## Changelog
 
-`Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
+> [!TIP]
+> Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
 * **19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
 * **13/12/2023 Version 1.31**

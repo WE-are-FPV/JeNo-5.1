@@ -1,7 +1,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # JeNo 5.1"
-_**5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, Freeride and Cinematic. Many customizable options are available.**_
+***5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, Freeride and Cinematic. Many customizable options are available.***
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 

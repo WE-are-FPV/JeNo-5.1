@@ -48,7 +48,7 @@ Originally intended for freestyle flying, **flight quality** and **durability** 
 
 The issue of obstructed FOV due to standoffs or the frame itself is exacerbated with the O3 camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3**.
 
-It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to ~40°.
+It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to ~40°. A high tilt option is also available.
 
 This new ability to film in **4K without needing an Action Cam** saves between 70g (Action 2) and 165g (GoPro 11) (plus TPU). For the standard version of the JeNo, we decided to add 20g to the frame to have a **rigid and sturdy tank**, totaling up to **~140g**. However, it still allows for the option of carrying an Action Cam.
 
@@ -127,7 +127,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 * **Classic :** For Freestyle flying, behavior and robustness are prioritized, but the **propellers will be visible in the FOV**.
 * **Lightweight :** 2.7g lighter than the Classic plates (1.35g per plate).
 * **Cine :** Uses elongated camera plates to remove propellers from the FOV (set to Wide with the O3).
-* **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera.
+* **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera. However we had no vibration with hard mounted O3.
 * **High tilt :** allows for a 40° tilt for high tilt adepts
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
@@ -152,7 +152,7 @@ Several shapes are available for the arm. Weight, robustness, motor protection, 
 ![JeNo Arms](./images/JeNo_arms.jpg)
 
 ### The Extras
-In the "dxf/04_extras" folder, you will find additional options that cater to more specific needs while remaining compatible with the JeNo frame:
+In the ["dxf/04_extras"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf/04_extras) folder, you will find additional options that cater to more specific needs while remaining compatible with the JeNo frame:
 
 * 6" Arms
 * Ultra-light Camera Plates

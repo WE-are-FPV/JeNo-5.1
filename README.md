@@ -193,7 +193,7 @@ The ["dxf"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf) folder contain
 
 * **01_base** : this  folder contains top, bottom and middle plates + key for each version
 * **02_camera_plates :** different versions of camera plates
-* **03_arms : ** different versions of arms
+* **03_arms :** different versions of arms
 * **04_extras :** contains specific and optional parts
 
 ## Bill of materials

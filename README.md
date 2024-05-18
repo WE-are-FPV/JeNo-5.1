@@ -129,6 +129,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 * **Cine :** Uses elongated camera plates to remove propellers from the FOV (set to Wide with the O3).
 * **Ciné Soft :** The version without soft mounting allows for more adjustment of the camera position. In the case of using the Air Unit O3, the quad must be properly tuned to avoid vibrations in video recording. The soft mounting version limits vibrations that could reach the camera. However we had no vibration with hard mounted O3.
 * **High tilt :** allows for a 40° tilt for high tilt adepts
+* _**Variable tilt :** variation proposed on [Kamarad70's Thingiverse page](https://www.thingiverse.com/kamarad70/designs)_
 
 ![JeNo Classic vs Cinematic](./images/ClassicVSCine.jpg)
 
@@ -355,6 +356,8 @@ If the cap of your Air Unit O3 antenna is lost, several designs are [available h
 * [Platy FPV](https://www.youtube.com/channel/UCqOLDBE34WiqytAgCRManAg) has reimagined the JeNo to suit his needs: lighter, shorter, low profile, and with a split deck. Find all the details of the [JeNo 5.1" - PlatyStyle Edition](https://www.printables.com/fr/model/744619-jeno-51-platystyle-edition) on their Printables page and on the [WE are FPV forum](https://forum.wearefpv.fr/topic/22236-jeno-51-platystyle-un-jeno-sous-hormones).
 
 ![PlatyStyle Edition](./images/PlatyEdition.png)
+
+* [Kamarad70 (Rotor-Vision)](https://www.youtube.com/channel/UCQ9MUpBuCL820obqPXN7wsw) offers a variation of the JeNo camera plates on [his Thingiverse page](https://www.thingiverse.com/kamarad70/designs), allowing for an adjustable tilt (from -20° to approximately +40°). You will also find the associated [FPV camera mount](https://www.thingiverse.com/thing:6627268), a [front bumper](https://www.thingiverse.com/thing:6627192), and an [Action Cam support base](https://www.thingiverse.com/thing:6627160).
 
 **TPU**
 

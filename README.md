@@ -6,7 +6,7 @@
 ***5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, Freeride and Cinematic. Many customizable options are available.***
 
 > [!NOTE]
-> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [7" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
+> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+5.1+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [7" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
 
 ![JeNo classic - 3D render](./images/JeNo_5_3D_render.jpg)
 
@@ -345,6 +345,7 @@ Even more interestingly, in collaboration with **Alex**, also known as [Heim FPV
 * A much sturdier and encompassing **VTX antenna support**, with an inclination that better tolerates impacts from the rear (available in O3 and "cherry" versions). 2 holes allow for an easy antenna ejection if required.
 * 2 new **arm protections**, offering not only better arm protection but also motor protection. The first version is "clippable" and replaceable without disassembling the motors. The second completely encases the arm tips and has no chance of being ejected during a crash.
 * An optimized **DJI Action 2 mount** for bando flying, without an ND filter, available in 20 and 25-degree versions (not the one on the photo here under, which is the classic version).
+* A new **DJI Action 2 mount** remixed from [T4 Max FOV Action 2 DJI TPU Drone Mounts](https://www.printables.com/fr/model/217897-t4-max-fov-action-2-dji-tpu-drone-mounts) par [t4obrien](https://www.printables.com/fr/@t4obrien). It allows to secure the camera with a strap.
 
 ![Bando TPU set](./images/Bando_TPU_set.jpg)
 

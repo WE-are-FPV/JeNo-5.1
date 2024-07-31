@@ -254,6 +254,9 @@ The JeNo allows the use of non-slip straps thanks to its strap slots. You can al
 
 ## Building/Assembly guide
 
+Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
+[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
+
 The assembly of the frame is straightforward, but here are some clarifications:
 
 * On one of the two sides of the middle plate, there are chamfered holes to accommodate countersunk screws. This side corresponds to the bottom. Remember to install the stack screws before installing the middle plate.

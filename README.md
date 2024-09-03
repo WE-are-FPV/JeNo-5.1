@@ -163,6 +163,8 @@ In the ["dxf/04_extras"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf/04
 
 Feel free to modify the files according to your requirements as well. For example, if you want even more solidity, you can indicate that you would like thicker bottom and top plates (remember to adjust the screw length accordingly).
 
+A 3mm bottom plate for use in bando is an interesting optimization and does not affect the screws length.
+
 |![WE are FPV banner](./images/JeNo_CameraPlates_Light.jpg)|
 |:---:|
 | Classic Base Light + Light Camera Plates + Classic Arms |
@@ -386,7 +388,11 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
-* **19/01/2023 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
+* **02/09/2024 Version 1.4**
+  * Modification of the bottom plate on the Classic versions (strength optimization). The "Light" versions remain unchanged.
+  * Addition of TPU bando (front bumper and rear bumper) adapted for a 3mm bottom plate.
+  * The STL and STEP files have been updated to accommodate the new bottom plate.
+* **19/01/2024 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
 * **13/12/2023 Version 1.31**
   * hole removed from classic arms
   * Slight optimization of the bottom plate for increased solidity (classic edition only)

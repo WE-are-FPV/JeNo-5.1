@@ -180,6 +180,10 @@ It is up to you : you can get it cut or you can get a classic or cine version di
 * [JeNo Classic by DFR](https://waf.link/JeNo-DFR) (affiliate link)
 * [JeNo Cine by DFR](https://waf.link/JeNo-Cine-DFR) (affiliate link)
 
+The JeNo 5.1" is also available from [CNC Madness](https://cncdrones.com/jeno-5-classic.html) (Canada).
+
+Of course, you can directly contact your favourite carbon fiber cutting service.
+
 The ["dxf"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
 
 * **00_full_frame** : this folder contains the different versions with **all the parts in a single file**

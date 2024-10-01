@@ -392,6 +392,7 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* **01/10/2024 :** STL "JeNo_arm protect_full_socket_bando" from the TPU bando kit updated to fix errors with some slicers
 * **02/09/2024 Version 1.4**
   * Modification of the bottom plate on the Classic versions (strength optimization). The "Light" versions remain unchanged.
   * Addition of TPU bando (front bumper and rear bumper) adapted for a 3mm bottom plate.

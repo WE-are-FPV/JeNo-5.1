@@ -386,6 +386,7 @@ In addition to the TPU options available on this page, you will find here some T
 * Several [GoPro mounts](https://www.printables.com/fr/@PhenXFrame/models) (5 to 7 and 9 to 12) by [Phen X Frame](https://www.printables.com/fr/@PhenXFrame)
 * [GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
 * [GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Cine by [shaks](https://www.printables.com/fr/@shaks_729955)
+* [O3 case](https://www.printables.com/model/1032747-jeno-bando-o3-casing-ranxfpv), 2 O3 backpacks with fins ([V1](https://www.printables.com/model/976839-jeno-bando-o3-backpack-ranxfpv) and [V2](https://www.printables.com/model/1032734-jeno-bando-o3-backpack-ranxfpv-v2)) and a [front bumper with fins](https://www.printables.com/model/1032740-jeno-bando-bumper-avant-ranxfpv) by [Franck G](https://www.printables.com/@FranckG_2243891)
 
 ## Changelog
 

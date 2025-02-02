@@ -110,7 +110,7 @@ We strongly recommend always cutting the latest version to ensure you benefit fr
 
 The version **number format** is as follows :
 ```
-<Major versions>.<Minoir version>.<Revision>
+<Major versions>.<Minor version>.<Revision>
 ex : 1.3.2
 ```
 

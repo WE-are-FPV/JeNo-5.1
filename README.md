@@ -109,9 +109,10 @@ You will find the **current version** of the frame at the beginning of the descr
 We strongly recommend always cutting the latest version to ensure you benefit from the most recent optimizations.
 
 The version **number format** is as follows :
-> [!TIP]
-> <Major versions>.<Minoir version>.<Revision>
-> ex : 1.3.2
+```
+<Major versions>.<Minoir version>.<Revision>
+ex : 1.3.2
+```
 
 * **Revision :** This number is incremented in the case of minor modifications with no significant impact.
 * **Minor version :** This number is incremented for minor modifications that may potentially break compatibility with certain TPU parts.

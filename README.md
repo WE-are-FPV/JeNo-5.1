@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 > [!NOTE]
-> Current version : **1.5.1** (read [Changelog](#changelog) for details)
+> Current version : **1.5.1** (read [changelog](#changelog) for details)
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 

@@ -1,9 +1,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> [!NOTE]
+> Current version : **1.5.1** (read [Changelog](#changelog) for details)
 
 ![JeNo - Front view](./images/JeNo_front.jpg)
 
 # JeNo 5.1"
-***5.1" drone FPV frame compatible with Air Unit O3 and designed for Freestyle, Freeride and Cinematic. Many customizable options are available.***
+***5.1" drone FPV frame compatible with Air Unit O3 and O4 Pro, designed for Freestyle, Freeride and Cinematic. Many customizable options are available.***
 
 > [!NOTE]
 > Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+5.1+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [7" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
@@ -15,6 +17,7 @@
 * [Key features](#key-features)
 * [Presentation](#presentation)
 * [Detailed specifications](#detailed-specifications)
+* [Versions and files](#versions-and-files)
 * [Customization](#customization)
 * [Buy it or cut it !](#buy-it-or-cut-it-)
 * [Bill of materials](#bill-of-materials)
@@ -34,7 +37,7 @@
 - [x] Excellent flight **performances**, easy to tune
 - [x] **Wide-X** geometry
 - [x] Perfect DJI **Air Unit O3** camera integration
-- [x] Designed for : DJI Vista/AU O3, WalkSnail, HDZero, Analogic
+- [x] Designed for : DJI Vista/AU O3/AU O4 Pro, WalkSnail, HDZero, Analogic
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] Stack **decoupled** from the arms
 - [x] **Easy maintenance** : remove 2 screws to replace an arm
@@ -44,9 +47,11 @@
 ## Presentation
 The **JeNo** is a 5.1" frame designed for the **DJI Air Unit O3**, which is not compatible with most of existing frames. It was designed to ensure that the frame is not visible in the camera's field of view (FOV) while providing good lens protection. It is also compatible with the O3 camera's ND filters.
 
+The JeNo is now compatible with the **JI Air Unit O4 Pro** (but make sure to use vertical ND filters, like [those from GEPRC](https://geprc.com/product/geprc-dji-o4-air-unit-pro-filter/)).
+
 Originally intended for freestyle flying, **flight quality** and **durability** were at the core of its design (see BlackBox at the bottom of the page).
 
-The issue of obstructed FOV due to standoffs or the frame itself is exacerbated with the O3 camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3**.
+The issue of obstructed FOV due to standoffs or the frame itself is exacerbated with the O3/O4 Pro camera, but this issue already exists in many frames with other cameras. The JeNo allows for a clear FOV **with any camera** and is **not exclusively dedicated to the O3/O4 Pro**.
 
 It is optimized for a 25° camera tilt but can support FOVs ranging from 0° to ~40°. A high tilt option is also available.
 
@@ -54,7 +59,7 @@ This new ability to film in **4K without needing an Action Cam** saves between 7
 
 A set of **[optimized TPU for bando bashing](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/tpu/bando_edition)** is also available to guarantee the best durability.
 
-With a DJI Air Unit O3, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
+With a DJI Air Unit O3/O4 Pro, you benefit from a **lighter and more robust** setup compared to traditional frames, with a clear FOV.
 
 ![JeNo - exploded view](./images/JeNo_exploded2.jpg)
 
@@ -66,7 +71,7 @@ The JeNo was initially designed for Freestyle flying, which is why it features a
 
 Several pattern options for the arm are also available.
 
-Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 5.1" thread](https://forum.wearefpv.fr/topic/19574-jeno-51-un-ch%C3%A2ssis-custom-modulaire-avec-fov-d%C3%A9gag%C3%A9-o3) to discuss it further.
+Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate, you can remove it if you prefer). Join us on the WAF forum in [the official JeNo 5.1" thread](https://forum.wearefpv.fr/topic/19574-jeno-51-un-ch%C3%A2ssis-custom-modulaire-avec-fov-d%C3%A9gag%C3%A9-o3) to discuss it further.
 
 ![WE are FPV banner](./images/waf-jeno.jpg)
 
@@ -84,7 +89,7 @@ We recently added a [7" version](https://github.com/WE-are-FPV/JeNo-7).
 | **Arms** | 6 mm | 
 | **Body height** | 30 mm | 
 | **Stack height** | 21.5 mm | 
-| **Bottom plate** | 2 or 2.5 mm depending on options | 
+| **Bottom plate** | 2.5 or 3 mm depending on options | 
 | **Middle plate** | 2.5 mm | 
 | **Top plate** | 2 mm | 
 | **Camera plates** | 3 mm | 
@@ -92,9 +97,44 @@ We recently added a [7" version](https://github.com/WE-are-FPV/JeNo-7).
 | **Camera** | 20 mm (DJI), Micro, Nano. Clear FOV. Ajustable.
 | **Main stack** | 30.5 mm x 30.5 mm and 20 mm x 20 mm | 
 | **Back stack** | 20 mm x 20 mm and 25 .5 x 25.5 mm | 
-| **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
+| **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3/O4 Pro, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
 | **XT60 passage** | Yes (front and back) + passage for a zip tie | 
+
+## Versions and files
+
+### Versioning
+You will find the **current version** of the frame at the beginning of the description and the full [history of modifications](#changelog) at the end of the page.
+
+We strongly recommend always cutting the latest version to ensure you benefit from the most recent optimizations.
+
+The version **number format** is as follows :
+> [!TIP]
+> <Major versions>.<Minoir version>.<Revision>
+> ex : 1.3.2
+
+* **Revision :** This number is incremented in the case of minor modifications with no significant impact.
+* **Minor version :** This number is incremented for minor modifications that may potentially break compatibility with certain TPU parts.
+* **Major version :** This number is incremented for significant modifications that break compatibility at the carbon level.
+
+Since the creation of the JeNo 5", we have always strived to **maintain compatibility at the carbon level**. As a result, the version remains “1.x.y.”
+
+In practical terms, this means that if you have the very first version of the JeNo 5" and want to equip it with the **O4 Pro**, you only need to have new camera plates cut—they will be compatible with your frame version!
+
+**Note :** If you develop TPU parts for the JeNo, be sure to specify the version they are compatible with.
+
+### Files management
+To simplify things, we have reorganized the file structure. The files are now divided into **five groups** :
+
+* **01-FRAME :** Contains **models** describing the **frame** in DXF, STEP, and STL formats for the current version. Also contains a PDF file which is a reformatted version of the DXF.
+* **02-TPU :** Contains **TPU models** for the current frame version in STL format.
+* **03-FRAME-HISTORY :** Contains previous versions of the frame.
+* **04-TPU-HISTORY :** Contains TPU models that are no longer compatible with the current version.
+* **OTHER-FILES :** Contains documentation files, including the assembly manual and a description.
+
+The major change is that all options are now consolidated into a single file. This will make version management significantly easier for us.
+
+If you want to view the DXF file with all annotations, we recommend using the free software [DWG TrueView](https://www.autodesk.com/products/dwg-trueview/overview). If you prefer not to use it, the PDF version of the file will contain all the necessary information.
 
 ## Customization
 
@@ -109,7 +149,7 @@ To have a complete frame, you will need to choose:
 > [!TIP]
 > All components are compatible with each other.
 
-Here is the "menu card" and its various options:
+Here is a preview of the "menu card" and its various options:
 
 ![JeNo customizable options](./images/JeNo_a_la_carte.jpg)
 
@@ -117,8 +157,9 @@ Here is the "menu card" and its various options:
 This concerns the core of the frame (bottom, middle, top plates, and arms key).
 
 * **Priority :** The Classic version (sturdy) features a 2.5mm bottom plate, compared to 2mm for the Lightweight version, which is also more "patterned." For the Lightweight version, the weight is approximately 120g depending on the options, compared to approximately 140g for the reinforced (classic) version.
-* **Chamfers :** The chamfered version is more aesthetically pleasing and slightly stronger. The arms have chamfers on both sides. The top plate is chamfered only on the upper part. Chamfering generally increases the price by around 15%.
-* **Edition :** The WE are FPV option adds a "WaF" logo, engraved on the bottom plate.
+* **Chamfers :** Chamfers have been removed from the files as they are not used by carbon cutters. We recommend applying chamfers to the entire frame, except for the camera plates, for aesthetics, comfort, and durability. Chamfering generally increases the price by around 15%.
+* **Edition :** The WE are FPV option adds a "WaF" logo engraved under the bottom plate. You are free to have it removed during cutting or replaced with another design.
+* **Bando :** t is the most robust option, with a 3mm thick bottom plate and reinforced arms.
 
 ### The Camera Plates
 
@@ -135,7 +176,8 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 
 > [!CAUTION]
 > Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).
-
+>
+> Air Unit O4 Pro coaxial cable is long enough
 | Freestyle camera plates | Cinematic camera plates |
 | :---: | :---: |
 | ![Freestyle camera plates](./images/camplates_freestyle.jpg) | ![Cinematic camera plates](./images/camplates_cine.jpg) |
@@ -153,7 +195,7 @@ Several shapes are available for the arm. Weight, robustness, motor protection, 
 ![JeNo Arms](./images/JeNo_arms.jpg)
 
 ### The Extras
-In the ["dxf/04_extras"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf/04_extras) folder, you will find additional options that cater to more specific needs while remaining compatible with the JeNo frame:
+In the DXF file, you will find additional options. These "extras" cater to more specific needs but remain compatible with the JeNo :
 
 * 6" Arms
 * Ultra-light Camera Plates
@@ -175,33 +217,26 @@ A 3mm bottom plate for use in bando is an interesting optimization and does not 
 
 ## Buy it or cut it !
 
-It is up to you : you can get it cut or you can get a classic or cine version directly from Drone FPV Racer :
+It is up to you : you can get it cut or you can get a classic or cine version directly from Drone FPV Racer or La Camera Embarquée :
 
 * [JeNo Classic by DFR](https://waf.link/JeNo-DFR) (affiliate link)
 * [JeNo Cine by DFR](https://waf.link/JeNo-Cine-DFR) (affiliate link)
+* [JeNo Classic by La Caméra Embarquée](https://www.lacameraembarquee.fr/we-are-fpv/17793-chassis-we-are-fpv-jeno-51-classic.html) (affiliate link)
+* [JeNo Cine by La Caméra Embarquée](https://www.lacameraembarquee.fr/we-are-fpv/17789-chassis-we-are-fpv-jeno-51-cine.html) (affiliate link)
+
+Note: Prices are often excellent in stores, but they don’t always offer the latest version.
 
 The JeNo 5.1" is also available from [CNC Madness](https://cncdrones.com/jeno-5-classic.html) (Canada).
 
 Of course, you can directly contact your favourite carbon fiber cutting service.
 
-The ["dxf"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
+The ["01-FRAME"](https://github.com/WE-are-FPV/JeNo-5.1/tree/main/01-FRAME) folder contains all the files you need to get it **cut** in your favourite flavour.
 
-* **00_full_frame** : this folder contains the different versions with **all the parts in a single file**
-  * **JeNo_Full_Classic.dxf :** Classic version
-  * **JeNo_Full_Classic_WAF_Edition.dxf :** Classic version with "WAF" engraved under the bottom plate
-  * **JeNo_Full_Light.dxf :** Light version
-  * **JeNo_Full_Light_WAF_Edition.dxf :** Light version with "WAF" engraved under the bottom plate
-  * **JeNo_Full_Classic_NoChamfered.dxf :** Classic version without chamfers (lower cost)
-  * **JeNo_Full_Light_WAF_Edition.dxf :** Light version without chamfers (lower cost)
- 
-> [!NOTE]
-> Each file contains all parts.
-> All camera plates versions are included in the files.
+Consult the **DXF file** of the frame (or the PDF version) to choose the version that interests you.
 
-* **01_base** : this  folder contains top, bottom and middle plates + key for each version
-* **02_camera_plates :** different versions of camera plates
-* **03_arms :** different versions of arms
-* **04_extras :** contains specific and optional parts
+Feel free to select a pre-made "Edition" (Classic, Light, or Bando), or mix different options and choose certain "extras".
+
+You will also need to choose a type of camera plates (classic, cine, etc.).
 
 > [!NOTE]
 > All parts versions are compatible with each others
@@ -270,7 +305,7 @@ The assembly of the frame is straightforward, but here are some clarifications:
 * An RX antenna in the shape of a T can be attached to the back of the JeNo using zip ties.
 * Six screws on the top plate are countersunk screws to avoid damaging the LiPo battery.
 
-Here is a [video of the JeNo assembly (FR)](https://youtu.be/SF4UAqyNPJ0), and you will find the assembly documentation below, also available here in [PDF format](./docs/assembly_guide.pdf).
+Here is a [video of the JeNo assembly (FR)](https://youtu.be/SF4UAqyNPJ0), and you will find the assembly documentation below, also available here in [PDF format](./OTHER-FILES/JeNo5_Assembly_Guide.pdf).
 
 ![JeNo assembly - step 1](./images/step_01.jpg)
 ![JeNo assembly - step 2](./images/step_02.jpg)
@@ -387,28 +422,36 @@ In addition to the TPU options available on this page, you will find here some T
 * [GoPro Mini 11 mount](https://www.printables.com/fr/model/831787-jeno-51-gopro-11-mini-mount) and other STL files by [L4go](https://www.printables.com/fr/@L4go_1956352)
 * [GoPro Mini 11 mount](https://www.printables.com/fr/model/590286-gopro-11-mini-pour-jeno-cine) for JeNo Cine by [shaks](https://www.printables.com/fr/@shaks_729955)
 * [O3 case](https://www.printables.com/model/1032747-jeno-bando-o3-casing-ranxfpv), 2 O3 backpacks with fins ([V1](https://www.printables.com/model/976839-jeno-bando-o3-backpack-ranxfpv) and [V2](https://www.printables.com/model/1032734-jeno-bando-o3-backpack-ranxfpv-v2)) and a [front bumper with fins](https://www.printables.com/model/1032740-jeno-bando-bumper-avant-ranxfpv) by [Franck G](https://www.printables.com/@FranckG_2243891)
+* Still by [Franck G](https://www.printables.com/@FranckG_2243891), but for the O4 Pro : DJI O4 Pro casing ([V1](https://www.printables.com/model/1144921-jeno-bando-dji-o4-pro-casing-ranxfpv), [V2](https://www.printables.com/model/1168238-jeno-bando-dji-o4-pro-casing-ranxfpv-v2)), [front bando bumper](https://www.printables.com/model/1158816-jeno-o4-pro-bando-bumper-avant-ranxfpv) and [a linear antennas backpack](https://www.printables.com/model/1146819-jeno-bando-dji-o4-o3-backpack-ranxfpv-v3)
 
 ## Changelog
 
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
-* **01/10/2024 :** STL "JeNo_arm protect_full_socket_bando" from the TPU bando kit updated to fix errors with some slicers
-* **02/09/2024 Version 1.4**
+* 01/10/2024 : 
+  * STL "JeNo_arm protect_full_socket_bando" from the TPU bando kit updated to fix errors with some slicers
+* Version **1.4** (02/09/2024) :
   * Modification of the bottom plate on the Classic versions (strength optimization). The "Light" versions remain unchanged.
   * Addition of TPU bando (front bumper and rear bumper) adapted for a 3mm bottom plate.
   * The STL and STEP files have been updated to accommodate the new bottom plate.
-* **19/01/2024 :** Betaflight 4.5 JeNo Preset added (on WAF repo)
-* **13/12/2023 Version 1.31**
-  * hole removed from classic arms
+* 19/01/2024 :
+  * Betaflight 4.5 JeNo Preset added (on WAF repo)
+* Version **1.31** (13/12/2023) :
+  * Hole removed from classic arms
   * Slight optimization of the bottom plate for increased solidity (classic edition only)
   * 2 straps top plate is the new default for increased solidity (classic edition only)
-* **08/10/2023 :** bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
-* **03/09/2023 :** collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
-* **08/07/2023 :** new top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
-* **24/04/2023 :** High tilt camera plates added (in “dxf\04_extras”)
-* **09/03/2023 :** 6" arms added (in “dxf\04_extras”)
-* **Version 1.2 (Drone-FPV-Racer) :**
+* 08/10/2023 : 
+  * Bando arm added (dans “dxf\03_arms”), with no holes and a bit beefer
+* 03/09/2023 : 
+  * Collection of reinforced TPU optimized for bando added (in “tpu\bando_edition”)
+* 08/07/2023 :
+  * New top plate with only 2 straps passages to mitigate a weak point if the front strap passage is not needed (in “dxf\04_extras”)
+* 24/04/2023 :
+  * High tilt camera plates added (in “dxf\04_extras”)
+* 09/03/2023 :
+  * 6" arms added (in “dxf\04_extras”)
+* Version **1.2** (Drone-FPV-Racer) :
   * Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
   * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
   * Reinforcements at the back of the bottom plate.

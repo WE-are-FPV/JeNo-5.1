@@ -429,15 +429,18 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* Version **1.5.1** (01/02/2025) : 
+  * Support for the Air Unit O4 Pro (camera plates + TPU)
+  * Widening of the bottom plate around the Air Unit O4
 * 01/10/2024 : 
   * STL "JeNo_arm protect_full_socket_bando" from the TPU bando kit updated to fix errors with some slicers
-* Version **1.4** (02/09/2024) :
+* Version **1.4.0** (02/09/2024) :
   * Modification of the bottom plate on the Classic versions (strength optimization). The "Light" versions remain unchanged.
   * Addition of TPU bando (front bumper and rear bumper) adapted for a 3mm bottom plate.
   * The STL and STEP files have been updated to accommodate the new bottom plate.
 * 19/01/2024 :
   * Betaflight 4.5 JeNo Preset added (on WAF repo)
-* Version **1.31** (13/12/2023) :
+* Version **1.3.1** (13/12/2023) :
   * Hole removed from classic arms
   * Slight optimization of the bottom plate for increased solidity (classic edition only)
   * 2 straps top plate is the new default for increased solidity (classic edition only)
@@ -451,7 +454,7 @@ In addition to the TPU options available on this page, you will find here some T
   * High tilt camera plates added (in “dxf\04_extras”)
 * 09/03/2023 :
   * 6" arms added (in “dxf\04_extras”)
-* Version **1.2** (Drone-FPV-Racer) :
+* Version **1.2.0** (Drone-FPV-Racer) :
   * Modification of the top plate with the engraving "JeNo" (the old top plate is still available in "dxf/04_extras").
   * Addition of chamfers on the top plate (for strap routing, XT-60 pass-through).
   * Reinforcements at the back of the bottom plate.

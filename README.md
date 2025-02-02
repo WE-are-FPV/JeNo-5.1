@@ -178,7 +178,7 @@ _**Priority :** In the Lightweight version, the carbon is more "patterned," maki
 > [!CAUTION]
 > Note: The coaxial cable sold with the Air Unit O3 (11.5 cm) barely fits with the cinematic camera plates. It is recommended to use a 20 cm coaxial cable (sold by RunCam and AxisFlying).
 >
-> Air Unit O4 Pro coaxial cable is long enough
+> Air Unit O4 Pro coaxial cable is long enough.
 
 | Freestyle camera plates | Cinematic camera plates |
 | :---: | :---: |
@@ -432,7 +432,7 @@ In addition to the TPU options available on this page, you will find here some T
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
 * Version **1.5.1** (01/02/2025) : 
-  * Support for the Air Unit O4 Pro (camera plates + TPU)
+  * Support for the **Air Unit O4 Pro** (camera plates + TPU)
   * Widening of the bottom plate around the Air Unit O4
 * 01/10/2024 : 
   * STL "JeNo_arm protect_full_socket_bando" from the TPU bando kit updated to fix errors with some slicers

@@ -36,7 +36,7 @@
 - [x] **Sturdiness** and **rigidity** (6 mm arms)
 - [x] Excellent flight **performances**, easy to tune
 - [x] **Wide-X** geometry
-- [x] Perfect DJI **Air Unit O3** camera integration
+- [x] Perfect DJI **Air Unit O3 O4 Pro** camera integration
 - [x] Designed for : DJI Vista/AU O3/AU O4 Pro, WalkSnail, HDZero, Analogic
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] Stack **decoupled** from the arms

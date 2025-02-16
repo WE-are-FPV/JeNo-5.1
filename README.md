@@ -431,6 +431,8 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* 16/02/2025 : 
+  * Addition of TPU for softmounted camera plates (works with O3 and O4)
 * Version **1.5.1** (01/02/2025) : 
   * Support for the **Air Unit O4 Pro** (camera plates + TPU)
   * Widening of the bottom plate around the Air Unit O4

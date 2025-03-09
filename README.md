@@ -75,9 +75,7 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 
 ![WE are FPV banner](./images/waf-jeno.jpg)
 
-The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-FPV/JeNo-3-3.5).
-
-We recently added a [7" version](https://github.com/WE-are-FPV/JeNo-7).
+The JeNo is also available in [2.5" version](https://github.com/WE-are-FPV/JeNo-Pocket), [3" and 3.5" versions](https://github.com/WE-are-FPV/JeNo-3-3.5) and [7" and 8" version](https://github.com/WE-are-FPV/JeNo-7).
 
 ## Detailed specifications
 

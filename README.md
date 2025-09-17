@@ -429,6 +429,8 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* 16/09/2025 :
+  * New TPU arm and motor bumpers, more optimized and offering even greater protection for the motors.
 * 16/02/2025 : 
   * Addition of TPU for softmounted camera plates (works with O3 and O4)
 * Version **1.5.1** (01/02/2025) : 

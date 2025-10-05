@@ -412,7 +412,7 @@ In addition to the TPU options available on this page, you will find here some T
 
 ![PulseFPV TPU](./images/PulseFPV_tpu.jpg)
 
-* [Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Thingiverse page](https://www.thingiverse.com/bardfpv/designs), including fins to protect the LiPo and facilitate the turtle mode.
+* [Bard FPV](https://www.youtube.com/@bardfpv) also offers us some interesting TPU designs on their [Cults3D page](https://cults3d.com/fr/collections-de-designs/BardFpv/jeno), including fins to protect the LiPo and facilitate the turtle mode.
 
 ![Bard FPV STLs](./images/BardFPV_STLs.jpg)
 

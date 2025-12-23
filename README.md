@@ -101,7 +101,7 @@ The JeNo is also available in [2.5" version](https://github.com/WE-are-FPV/JeNo-
 
 ## Versions and files
 
-### Versioning
+### Frame versioning
 You will find the **current version** of the frame at the beginning of the description and the full [history of modifications](#changelog) at the end of the page.
 
 We strongly recommend always cutting the latest version to ensure you benefit from the most recent optimizations.
@@ -120,7 +120,15 @@ Since the creation of the JeNo 5", we have always strived to **maintain compatib
 
 In practical terms, this means that if you have the very first version of the JeNo 5" and want to equip it with the **O4 Pro**, you only need to have new camera plates cut—they will be compatible with your frame version!
 
-**Note :** If you develop TPU parts for the JeNo, be sure to specify the version they are compatible with.
+### TPU Versioning
+
+Since TPU parts are tied to the **frame version**, as explained in the previous section, TPU **names are prefixed** with chassis version **compatibility information**, for example :
+
+* JeNo5_**1.6** : compatible with version **1.6**
+* JeNo5_**1.x** : compatible with **all** versions
+* JeNo5_**1.5+** : compatible starting from version **1.5**
+
+**Note :** if you are developing TPU parts for the JeNo, make sure to clearly indicate which frame version they are compatible with.
 
 ### Files management
 To simplify things, we have reorganized the file structure. The files are now divided into **five groups** :
@@ -429,6 +437,18 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* Version **1.6.0** (13/12/2025) :
+  * New bottom plate for all variants : reinforcement of the front section around the camera plate slots
+  * New top plate for all variants : widened carbon area around the rear holes to make cutting easier and improve durability
+  * **TPU :** new front bumpers to account for the bottom plate modification
+  * **TPU :** new backpacks to account for the top plate modification
+  * **TPU :** new mounts for the DJI Osmo Nano
+  * **Important :** Action Cam mounts are not affected by this update. They were only impacted when O4 Pro support was introduced in version 1.5.1.
+  * **Important :** This version update does not break compatibility of the carbon cuts with the previous version.
+  * For clarity, TPU filenames are now prefixed with chassis version compatibility information, for example :
+    * JeNo5_**1.6** : compatible with version **1.6**
+	* JeNo5_**1.x** : compatible with **all** versions
+	* JeNo5_**1.5+** : compatible starting from version **1.5**
 * 16/09/2025 :
   * New TPU arm and motor bumpers, more optimized and offering even greater protection for the motors.
 * 16/02/2025 : 

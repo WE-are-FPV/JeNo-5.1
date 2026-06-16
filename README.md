@@ -231,6 +231,7 @@ It is up to you : you can get it cut or you can get a classic or cine version di
 * [JeNo Cine by DFR](https://waf.link/JeNo-Cine-DFR) (affiliate link)
 * [JeNo Classic by La Caméra Embarquée](https://www.lacameraembarquee.fr/we-are-fpv/17793-chassis-we-are-fpv-jeno-51-classic.html) (affiliate link)
 * [JeNo Cine by La Caméra Embarquée](https://www.lacameraembarquee.fr/we-are-fpv/17789-chassis-we-are-fpv-jeno-51-cine.html) (affiliate link)
+* [FPV CNC Drone](https://fpvcncdrone.com/)
 
 Note: Prices are often excellent in stores, but they don’t always offer the latest version.
 
